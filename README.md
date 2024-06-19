@@ -106,7 +106,7 @@
 
 ## Dart
 
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,support VMess, VLESS, Shadowsocks, Trojan, Snell, TUIC, Hysteriaduo, simple and easy to use, open-source and ad-free.
 
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
