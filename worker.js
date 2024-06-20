@@ -63,8 +63,7 @@ function generateHTML(data) {
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Jerry Zhou GitHub Stars 导航</title>
       <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857"
-           crossorigin="anonymous"></script>
+      
       <style>
         .container {
           margin-left: auto;
