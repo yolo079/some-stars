@@ -169,6 +169,9 @@ function generateHTML(data) {
           </div>
         </div>
       </div>
+      <div class="text-center py-4">
+        Copyright © 2024 <a href="https://jerryz.com.cn" class="text-blue-500 hover:underline">Jerry Zhou</a> . All Rights Reserved.
+      </div>
       <button id="back-to-top">↑</button>
       <script>
         document.addEventListener('DOMContentLoaded', function() {
