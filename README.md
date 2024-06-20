@@ -52,6 +52,8 @@
 
 *   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
 
+*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
+
 *   [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
 
 *   [gokulkrishh/qrcodescan.in](https://github.com/gokulkrishh/qrcodescan.in) - QR Code Scanner is the simplest, fastest and most user-friendly web application.
@@ -245,8 +247,6 @@
 ## miscellaneous
 
 *   [YangguangZhou/CNChat-Docs](https://github.com/YangguangZhou/CNChat-Docs) - CNChat 使用文档
-
-*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
 
 *   [rcy1314/some-stars](https://github.com/rcy1314/some-stars) - 我的star列表，每天自动更新
 
