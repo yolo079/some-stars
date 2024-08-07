@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [C#](#c)
 *   [Python](#python)
+*   [C#](#c)
 *   [C](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -30,11 +30,9 @@
 *   [Batchfile](#batchfile)
 *   [PHP](#php)
 
-## C\#
-
-*   [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-
 ## Python
+
+*   [Yanyutin753/RefreshToV1Api](https://github.com/Yanyutin753/RefreshToV1Api) - 开源不易，请给我一颗免费的星星⭐ main 0.7.9 版本 支持把refresh\_token当key使用，转成v1形式的api，内置自动刷新access\_token，动态适配使用GPTS，GPTO，适配one-api等第三方服务，本项目站在巨人的肩膀上的项目，感谢Ink-Osier大佬的PandoraToV1Api项目
 
 *   [Chenyme/oaifree-tools](https://github.com/Chenyme/oaifree-tools) - 一站式打通 Oaifree、Pandora 和 Fuclaude 的后台管理项目，具备登录系统、用户管理、Token管理、号池管理、共享服务、Linux.do认证 等多功能集成项目，助力各位更快捷的管理 LINUX DO 相关服务！
 
@@ -73,6 +71,10 @@
 *   [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforming Llama2-13B.
 
 *   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
+
+## C\#
+
+*   [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 
 ## C
 
@@ -133,8 +135,6 @@
 *   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
 
 *   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 
 ## Java
 
