@@ -32,7 +32,7 @@
 
 ## Dart
 
-*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox app using Flutter
+*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 
 *   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
@@ -68,7 +68,7 @@
 
 *   [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api) - 🚀 阿里通义千问2.5大模型逆向API白嫖测试【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 
-*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
+*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
 
 *   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
 
@@ -100,7 +100,7 @@
 
 *   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
-*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
+*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
 
 *   [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 
@@ -162,7 +162,7 @@
 
 *   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
 
-*   [jstayton/suri](https://github.com/jstayton/suri) - Your own link shortener that's easily deployed as a static site (for free)
+*   [surishortlink/suri](https://github.com/surishortlink/suri) - Your own short links as an easily deployed static site
 
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
