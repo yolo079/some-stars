@@ -7,7 +7,22 @@ on:
   workflow_dispatch:
   schedule:
     # Execute every week at 0:00 CST (UTC+8), which is 16:00 UTC on the previous day
-    - cron: '0 16 * * 0' # This runs at 16:00 UTC on Saturday, which is 0:00 CST on Sunday
+    
+# Operator	| Description	 		      | Example
+# *		      | Any value	           	|  15 * * * * runs at every minute 15 of every hour of every day.
+# ,		      | Value list separator	| 2,10 4,5 * * * runs at minute 2 and 10 of the 4th and 5th hour of every day.
+# -		      | Range of values	30   	| 4-6 * * * runs at minute 30 of the 4th, 5th, and 6th hour.
+# /	      	| Step values	         	| 20/15 * * * * runs every 15 minutes starting from minute 20 through 59 (minutes 20, 35, and 50).
+    #         ┌───────────── minute (0 - 59)
+    #         │ ┌───────────── hour (0 - 23)
+    #         │ │ ┌───────────── day of the month (1 - 31)
+    #         │ │ │ ┌───────────── month (1 - 12 or JAN-DEC)
+    #         │ │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
+    #         │ │ │ │ │
+    #         │ │ │ │ │
+    #         │ │ │ │ │
+    #         * * * * *
+    - cron: '* */6 * * *' # This runs at 16:00 UTC on Saturday, which is 0:00 CST on Sunday
   watch:
     types: [started]
 
