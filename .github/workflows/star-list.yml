@@ -22,7 +22,7 @@ on:
     #         │ │ │ │ │
     #         │ │ │ │ │
     #         * * * * *
-    - cron: '*/3 * * * *' # This runs at 16:00 UTC on Saturday, which is 0:00 CST on Sunday
+    - cron: '0 7 */2 * *' # This runs at 16:00 UTC on Saturday, which is 0:00 CST on Sunday
   watch:
     types: [started]
 
