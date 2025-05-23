@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Roff](#roff)
 *   [C++](#c)
+*   [Roff](#roff)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Zig](#zig)
@@ -54,15 +54,13 @@
 *   [Ruby](#ruby)
 *   [Clojure](#clojure)
 
-## Roff
-
-*   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
-*   [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
-
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## C++
+
+*   [emNavi/Fast-LIO2](https://github.com/emNavi/Fast-LIO2) - 使用 Mid360 激光雷达完成 Fast-LIO2 里程计 + Ego-Planner 规划算法
+
+*   [lovelyyoshino/FAST\_LIO2\_Noted](https://github.com/lovelyyoshino/FAST_LIO2_Noted) - FAST\_LIO2\_Noted 中文注释版
+
+*   [SYSU-STAR/EPIC](https://github.com/SYSU-STAR/EPIC) - Exploring on Point Clouds: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios
 
 *   [TheSeanParker/SLAM\_Materials](https://github.com/TheSeanParker/SLAM_Materials) - Math and Coding about  SLAM
 
@@ -810,6 +808,14 @@
 
 *   [iwander-all/vins-mono-self-improved-](https://github.com/iwander-all/vins-mono-self-improved-) - an improved version of vins-mono
 
+## Roff
+
+*   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
+
+*   [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+
 ## Python
 
 *   [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - \[CVPR 2025 Highlight] Real-time dense scene reconstruction with SLAM3R
@@ -834,7 +840,7 @@
 
 *   [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 
-*   [PyJun/Mooc\_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，中国大学慕课，网易云课堂，有道精品课，有道领世，腾讯课堂，腾讯会议，B站课堂，中公网校，荔枝微课，伯索云，爱问云，百家云，高途，途途，研途，学浪，抖音课堂，千聊，兴趣岛，橙啦，超星学习通，学银在线，智慧职教，职教云，知到智慧树，网易公开课，学堂在线，爱课程；支持视频课件同时下载
+*   [PyJun/Mooc\_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，中国大学慕课，网易云课堂，有道精品课，有道领世，腾讯课堂，腾讯会议，B站课堂，中公网校，荔枝微课，海豚知道，伯索云，爱问云，百家云，高途，途途，研途，学浪，抖音课堂，千聊，兴趣岛，橙啦，超星学习通，学银在线，智慧职教，职教云，知到智慧树，网易公开课，学堂在线，爱课程；支持视频课件同时下载
 
 *   [noahcao/OC\_SORT](https://github.com/noahcao/OC_SORT) - \[CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion.
 
@@ -898,7 +904,7 @@
 
 *   [rpng/calc2.0](https://github.com/rpng/calc2.0) - CALC2.0: Combining Appearance, Semantic and Geometric Information for Robust and Efficient Visual Loop Closure
 
-*   [ais-lab/d2s](https://github.com/ais-lab/d2s) - \[RAL 2024 & ICRA 2025] D2S: Representing sparse descriptors and 3D coordinates for camera relocalization
+*   [ais-lab/d2s](https://github.com/ais-lab/d2s) - \[ICRA 2025 & RAL 2024] D2S: Representing sparse descriptors and 3D coordinates for camera relocalization
 
 *   [ais-lab/pl2map](https://github.com/ais-lab/pl2map) - \[IROS 2024] Representing 3D sparse map points and lines for camera relocalization; \[Arxiv 2025] Improved 3D Point-Line Mapping Regression for Camera Relocalization
 
@@ -1139,8 +1145,6 @@
 *   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 *   [HeYijia/vio\_data\_simulation](https://github.com/HeYijia/vio_data_simulation) - Generate imu data and feature in camera frame. You can use this data to test your VINS.
-
-*   [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 
 ## miscellaneous
 
@@ -1888,8 +1892,6 @@
 
 *   [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 
-*   [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-
 ## MATLAB
 
 *   [tobycollins/IPPE](https://github.com/tobycollins/IPPE) - Infinitesimal Plane-based Pose Estimation (IPPE): A very fast method to compute a camera's pose from a view of a planar object
@@ -2043,8 +2045,6 @@
 ## TeX
 
 *   [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold) - LaTeX sources of the technical report "A tutorial on SE(3) transformation parameterizations and on-manifold optimization"
-
-*   [gaoxiang12/state-estimation-exercises](https://github.com/gaoxiang12/state-estimation-exercises) - The exercises in Barfoot's book: state estimation for robotics
 
 ## PostScript
 
