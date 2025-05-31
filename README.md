@@ -1546,6 +1546,8 @@
 
 *   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 
+*   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+
 *   [siyuan-note/oceanpress\_old](https://github.com/siyuan-note/oceanpress_old) - 将 Markdown 文件转换为 HTML 生成静态站点的工具，专为思源笔记实现了许多特有渲染效果。
 
 *   [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
@@ -1693,8 +1695,6 @@
 *   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 
 *   [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
-
-*   [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 
 ## Shell
 
