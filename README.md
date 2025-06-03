@@ -60,7 +60,7 @@
 
 *   [lovelyyoshino/FAST\_LIO2\_Noted](https://github.com/lovelyyoshino/FAST_LIO2_Noted) - FAST\_LIO2\_Noted 中文注释版
 
-*   [SYSU-STAR/EPIC](https://github.com/SYSU-STAR/EPIC) - Exploring on Point Clouds: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios
+*   [Robotics-STAR-Lab/EPIC](https://github.com/Robotics-STAR-Lab/EPIC) - Exploring on Point Clouds: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios
 
 *   [TheSeanParker/SLAM\_Materials](https://github.com/TheSeanParker/SLAM_Materials) - Math and Coding about  SLAM
 
@@ -926,7 +926,7 @@
 
 *   [ShenZheng2000/LLIE\_Survey](https://github.com/ShenZheng2000/LLIE_Survey) - Resources for our paper "Low-Light Image and Video Enhancement: A Comprehensive Survey and Beyond"
 
-*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a visual SLAM pipeline in Python for monocular, stereo and RGBD cameras. It supports many modern local and global features, different loop-closing methods, a volumetric reconstruction pipeline, and depth prediction models.
+*   [luigifreda/pyslam](https://github.com/luigifreda/pyslam) - pySLAM is a Python-based Visual SLAM pipeline that supports monocular, stereo, and RGB-D cameras. It offers a wide range of modern local and global features, multiple loop-closing strategies, a volumetric reconstruction pipeline, integration of depth prediction models, and semantic segmentation for enhanced scene understanding.
 
 *   [JokerJohn/SLAMTools](https://github.com/JokerJohn/SLAMTools) - A script toolkit for SLAM research, including but not limited to various plotting functions, ROS bag processing, and more.
 
