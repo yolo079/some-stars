@@ -1450,7 +1450,7 @@
 
 *   [fengbingchun/OpenCV\_Test](https://github.com/fengbingchun/OpenCV_Test) - fbc\_cv is an open source image process library.
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to full stack observability, even for lean teams!
+*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 *   [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 
