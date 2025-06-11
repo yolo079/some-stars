@@ -172,7 +172,7 @@
 
 *   [xiaohong-huang/RTK-Visual-Inertial-Navigation](https://github.com/xiaohong-huang/RTK-Visual-Inertial-Navigation) - A method used sliding window filter frame work for RTK-Visual-Inertial-Navigation
 
-*   [3dv-casia/LSLM\_VLoc](https://github.com/3dv-casia/LSLM_VLoc) - Lightweight Structured Line Map Based Visual Localization
+*   [3dv-casia/LSLM\_VLoc](https://github.com/3dv-casia/LSLM_VLoc) - \[RAL 2024]Lightweight Structured Line Map Based Visual Localization
 
 *   [pangfumin/marginalization](https://github.com/pangfumin/marginalization) - Sample code for marginalization of SLAM, Visual-Inertial Odometry.
 
@@ -498,7 +498,7 @@
 
 *   [ethan-li-coding/AD-Census](https://github.com/ethan-li-coding/AD-Census) - AD-Census立体匹配算法，中国学者Xing Mei等人研究成果（Respect！），算法效率高、效果出色，适合硬件加速，Intel RealSense D400 Stereo模块算法。完整实现，代码规范，注释清晰，欢迎star！
 
-*   [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models (Stable-Diffusion, FaceFusion, YOLO series, Det, Seg, Matting) with MNN, ORT and TensorRT.
+*   [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models with MNN, ORT and TRT.
 
 *   [kmkolasinski/AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) - AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. Since the image processing is done in 99% on GPU  the program runs very fast and all the parameters can be changed in real time. AB was made to be a new alternative to known gimp plugin called Insane Bump.
 
@@ -830,7 +830,7 @@
 
 *   [tberriel/OVO](https://github.com/tberriel/OVO) - Official repository of "Open-Vocabulary Online Semantic Mapping for SLAM"
 
-*   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Large Language Model for Spatial Understanding
+*   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
 
 *   [nianticlabs/doubletake](https://github.com/nianticlabs/doubletake) - \[ECCV 2024] DoubleTake: Geometry Guided Depth Estimation
 
