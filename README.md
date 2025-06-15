@@ -100,7 +100,7 @@
 
 *   [TheSeanParker/SLAM\_Materials](https://github.com/TheSeanParker/SLAM_Materials) - Math and Coding about  SLAM
 
-*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - \[IEEE Sensors Journal (JSEN) ] SuperVINS: A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions (integrated deep learning features)
+*   [luohongk/SuperVINS](https://github.com/luohongk/SuperVINS) - 📖\[IEEE Sensors Journal (JSEN) ] SuperVINS: A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions (integrated deep learning features)
 
 *   [hku-mars/FAST\_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 
