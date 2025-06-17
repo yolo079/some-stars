@@ -940,7 +940,7 @@
 
 *   [ais-lab/d2s](https://github.com/ais-lab/d2s) - \[ICRA 2025 & RAL 2024] D2S: Representing sparse descriptors and 3D coordinates for camera relocalization
 
-*   [ais-lab/pl2map](https://github.com/ais-lab/pl2map) - \[IROS 2024] Representing 3D sparse map points and lines for camera relocalization; \[Arxiv 2025] Improved 3D Point-Line Mapping Regression for Camera Relocalization
+*   [ais-lab/pl2map](https://github.com/ais-lab/pl2map) - \[IROS 2024] Representing 3D sparse map points and lines for camera relocalization; \[IROS 2025] Improved 3D Point-Line Mapping Regression for Camera Relocalization
 
 *   [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 
@@ -1249,8 +1249,6 @@
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 *   [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source) - SLAM 开发学习资源与经验分享
-
-*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 
 *   [forthespada/developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN) - 💻 🇨🇳Roadmap to becoming a Internet software developer，校招技术岗学习路线图与资源推荐，成为一名研发工程师求职所需要的最少技能中文版，包括Java、C++、Golang、前端、Python等学习大纲、路线以及资源推荐。
 
@@ -1745,6 +1743,8 @@
 *   [prontera/ideavimrc](https://github.com/prontera/ideavimrc) - IntelliJ IDEA的VIM键位配置，快速配置USTC源
 
 *   [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+
+*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 
 *   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
 
