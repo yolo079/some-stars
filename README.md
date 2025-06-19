@@ -8,15 +8,15 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Go](#go)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Roff](#roff)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Zig](#zig)
 *   [Rust](#rust)
 *   [Vue](#vue)
-*   [C](#c-1)
 *   [Cuda](#cuda)
 *   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -53,6 +53,92 @@
 *   [PHP](#php)
 *   [Ruby](#ruby)
 *   [Clojure](#clojure)
+
+## C
+
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+
+*   [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
+
+*   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
+
+*   [AIBluefisher/DAGSfM](https://github.com/AIBluefisher/DAGSfM) - Distributed and Graph-based Structure from Motion. This project includes the official implementation of our Pattern Recognition 2020 paper: Graph-Based Parallel Large Scale Structure from Motion.
+
+*   [InfiniteSenseLab/InfiniteSenseSDK](https://github.com/InfiniteSenseLab/InfiniteSenseSDK) -
+
+*   [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
+
+*   [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
+
+*   [osrf/ovc](https://github.com/osrf/ovc) - the Open Vision Computer
+
+*   [AutonomyLab/ardrone\_autonomy](https://github.com/AutonomyLab/ardrone_autonomy) - ROS driver for Parrot AR-Drone 1.0 and 2.0 quadrocopters
+
+*   [tum-vision/ardrone\_autonomy](https://github.com/tum-vision/ardrone_autonomy) - This is a slightly modified version of the official ardrone\_autonomy package, which You can find here: https://github.com/AutonomyLab/ardrone\_autonomy
+
+*   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+
+*   [ETH-PBL/NanoSLAM](https://github.com/ETH-PBL/NanoSLAM) - NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots
+
+*   [ETH-PBL/Matrix\_ToF\_Drones](https://github.com/ETH-PBL/Matrix_ToF_Drones) - Indoor Navigation System based on Multi-Pixel Time-of-Flight Imaging for Nano-Drone Applications
+
+*   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+
+*   [morrownr/8814au](https://github.com/morrownr/8814au) - Linux Driver for USB WiFi Adapters that are based on the RTL8814AU Chipset
+
+*   [tuuzhang/lens-undistortion-with-automatic-method](https://github.com/tuuzhang/lens-undistortion-with-automatic-method) - Lens Distortion Correction Using Two-Parameter Models, polynomial and division models.This method aimed at correct the len's radial distortion without camera calibration.The source code and articles was download from IPOL.
+
+*   [fengbingchun/OpenCV\_Test](https://github.com/fengbingchun/OpenCV_Test) - fbc\_cv is an open source image process library.
+
+*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+*   [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
+
+*   [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
+
+*   [iliasam/OpenTOFLidar](https://github.com/iliasam/OpenTOFLidar) - Open Source TOF Lidar
+
+*   [AndreaCensi/csm](https://github.com/AndreaCensi/csm) - The C(canonical) Scan Matcher
+
+*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+
+*   [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
+
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+
+*   [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
+
+*   [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
+
+*   [DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) - The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A\&M University.
+
+*   [gjasny/v4l-utils](https://github.com/gjasny/v4l-utils) -
+
+*   [aircrack-ng/rtl8814au](https://github.com/aircrack-ng/rtl8814au) - Realtek rtl8814au driver
+
+*   [ZBar/ZBar](https://github.com/ZBar/ZBar) - Clone of the mercurial repository http://zbar.hg.sourceforge.net:8000/hgroot/zbar/zbar
+
+*   [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
+
+*   [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
+
+*   [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
+
+*   [raspberrypi/tools](https://github.com/raspberrypi/tools) -
+
+*   [AprilRobotics/apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
+
+*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+
+*   [waveshareteam/WM8960-Audio-HAT](https://github.com/waveshareteam/WM8960-Audio-HAT) - The drivers of \[WM8960 Audio HAT] for Raspberry Pi
 
 ## Go
 
@@ -534,7 +620,7 @@
 
 *   [ethan-li-coding/AD-Census](https://github.com/ethan-li-coding/AD-Census) - AD-Census立体匹配算法，中国学者Xing Mei等人研究成果（Respect！），算法效率高、效果出色，适合硬件加速，Intel RealSense D400 Stereo模块算法。完整实现，代码规范，注释清晰，欢迎star！
 
-*   [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+🎉 models with MNN, ORT and TRT.
+*   [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
 
 *   [kmkolasinski/AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) - AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. Since the image processing is done in 99% on GPU  the program runs very fast and all the parameters can be changed in real time. AB was made to be a new alternative to known gimp plugin called Insane Bump.
 
@@ -1443,92 +1529,6 @@
 *   [langzhou/siyuan-note](https://github.com/langzhou/siyuan-note) - 思源笔记美化教程
 
 *   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
-
-## C
-
-*   [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
-
-*   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
-
-*   [AIBluefisher/DAGSfM](https://github.com/AIBluefisher/DAGSfM) - Distributed and Graph-based Structure from Motion. This project includes the official implementation of our Pattern Recognition 2020 paper: Graph-Based Parallel Large Scale Structure from Motion.
-
-*   [InfiniteSenseLab/InfiniteSenseSDK](https://github.com/InfiniteSenseLab/InfiniteSenseSDK) -
-
-*   [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
-
-*   [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
-
-*   [osrf/ovc](https://github.com/osrf/ovc) - the Open Vision Computer
-
-*   [AutonomyLab/ardrone\_autonomy](https://github.com/AutonomyLab/ardrone_autonomy) - ROS driver for Parrot AR-Drone 1.0 and 2.0 quadrocopters
-
-*   [tum-vision/ardrone\_autonomy](https://github.com/tum-vision/ardrone_autonomy) - This is a slightly modified version of the official ardrone\_autonomy package, which You can find here: https://github.com/AutonomyLab/ardrone\_autonomy
-
-*   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-
-*   [ETH-PBL/NanoSLAM](https://github.com/ETH-PBL/NanoSLAM) - NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots
-
-*   [ETH-PBL/Matrix\_ToF\_Drones](https://github.com/ETH-PBL/Matrix_ToF_Drones) - Indoor Navigation System based on Multi-Pixel Time-of-Flight Imaging for Nano-Drone Applications
-
-*   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
-
-*   [morrownr/8814au](https://github.com/morrownr/8814au) - Linux Driver for USB WiFi Adapters that are based on the RTL8814AU Chipset
-
-*   [tuuzhang/lens-undistortion-with-automatic-method](https://github.com/tuuzhang/lens-undistortion-with-automatic-method) - Lens Distortion Correction Using Two-Parameter Models, polynomial and division models.This method aimed at correct the len's radial distortion without camera calibration.The source code and articles was download from IPOL.
-
-*   [fengbingchun/OpenCV\_Test](https://github.com/fengbingchun/OpenCV_Test) - fbc\_cv is an open source image process library.
-
-*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-
-*   [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
-
-*   [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
-
-*   [iliasam/OpenTOFLidar](https://github.com/iliasam/OpenTOFLidar) - Open Source TOF Lidar
-
-*   [AndreaCensi/csm](https://github.com/AndreaCensi/csm) - The C(canonical) Scan Matcher
-
-*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-
-*   [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
-
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-
-*   [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
-
-*   [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
-
-*   [DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) - The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A\&M University.
-
-*   [gjasny/v4l-utils](https://github.com/gjasny/v4l-utils) -
-
-*   [aircrack-ng/rtl8814au](https://github.com/aircrack-ng/rtl8814au) - Realtek rtl8814au driver
-
-*   [ZBar/ZBar](https://github.com/ZBar/ZBar) - Clone of the mercurial repository http://zbar.hg.sourceforge.net:8000/hgroot/zbar/zbar
-
-*   [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
-
-*   [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
-
-*   [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
-
-*   [raspberrypi/tools](https://github.com/raspberrypi/tools) -
-
-*   [AprilRobotics/apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
-
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-
-*   [waveshareteam/WM8960-Audio-HAT](https://github.com/waveshareteam/WM8960-Audio-HAT) - The drivers of \[WM8960 Audio HAT] for Raspberry Pi
-
-*   [nazar-pc/RTL8814AU](https://github.com/nazar-pc/RTL8814AU) - Realtek RTL8814AU USB Wi-Fi driver
 
 ## Cuda
 
