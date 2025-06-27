@@ -1626,7 +1626,7 @@
 
 *   [Linketic/CityGaussian](https://github.com/Linketic/CityGaussian) - CityGaussian Series for High-quality Large-Scale Scene Reconstruction with Gaussians
 
-*   [duyongquan/LTSLAM](https://github.com/duyongquan/LTSLAM) - You can learn slam step by step，there are lot of tutorials
+*   [quandy2020/LTSLAM](https://github.com/quandy2020/LTSLAM) - You can learn slam step by step，there are lot of tutorials
 
 *   [debOliveira/MoCapRasp](https://github.com/debOliveira/MoCapRasp) - Motion capture arena using only Raspberry Pi and open source libraries
 
@@ -1898,7 +1898,7 @@
 
 *   [tobycollins/IPPE](https://github.com/tobycollins/IPPE) - Infinitesimal Plane-based Pose Estimation (IPPE): A very fast method to compute a camera's pose from a view of a planar object
 
-*   [ylochman/babelcalib](https://github.com/ylochman/babelcalib) - BabelCalib: A Universal Approach to Calibrating Central Cameras. In ICCV (2021)
+*   [ylochman/babelcalib](https://github.com/ylochman/babelcalib) - BabelCalib: A Universal Approach to Calibrating Central Cameras (ICCV 2021)
 
 *   [cefisalam/Self-Calibration](https://github.com/cefisalam/Self-Calibration) - Methods of Self Calibration
 
