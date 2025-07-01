@@ -1618,6 +1618,8 @@
 
 *   [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
 
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
 ## Jupyter Notebook
 
 *   [scape-research/SOSNet](https://github.com/scape-research/SOSNet) - Pretrained pytorch model for the SOSNet descriptor \[CVPR 2019]
@@ -1977,8 +1979,6 @@
 *   [fengdu78/deeplearning\_ai\_books](https://github.com/fengdu78/deeplearning_ai_books) - deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 
 *   [Serafadam/ros\_docsets](https://github.com/Serafadam/ros_docsets) - Docsets to use in Dash/Zeal
-
-*   [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2025中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
 
 *   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
