@@ -9,9 +9,9 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [C](#c)
+*   [C++](#c)
+*   [C](#c-1)
 *   [Go](#go)
-*   [C++](#c-1)
 *   [Roff](#roff)
 *   [miscellaneous](#miscellaneous)
 *   [Zig](#zig)
@@ -55,6 +55,8 @@
 *   [Clojure](#clojure)
 
 ## Python
+
+*   [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 
 *   [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 微信 PC 4.0 防撤回/多开补丁工具
 
@@ -388,129 +390,9 @@
 
 *   [HeYijia/vio\_data\_simulation](https://github.com/HeYijia/vio_data_simulation) - Generate imu data and feature in camera frame. You can use this data to test your VINS.
 
-## C
-
-*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-
-*   [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
-
-*   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
-
-*   [AIBluefisher/DAGSfM](https://github.com/AIBluefisher/DAGSfM) - Distributed and Graph-based Structure from Motion. This project includes the official implementation of our Pattern Recognition 2020 paper: Graph-Based Parallel Large Scale Structure from Motion.
-
-*   [InfiniteSenseLab/InfiniteSenseSDK](https://github.com/InfiniteSenseLab/InfiniteSenseSDK) -
-
-*   [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
-
-*   [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
-
-*   [osrf/ovc](https://github.com/osrf/ovc) - the Open Vision Computer
-
-*   [AutonomyLab/ardrone\_autonomy](https://github.com/AutonomyLab/ardrone_autonomy) - ROS driver for Parrot AR-Drone 1.0 and 2.0 quadrocopters
-
-*   [tum-vision/ardrone\_autonomy](https://github.com/tum-vision/ardrone_autonomy) - This is a slightly modified version of the official ardrone\_autonomy package, which You can find here: https://github.com/AutonomyLab/ardrone\_autonomy
-
-*   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-
-*   [ETH-PBL/NanoSLAM](https://github.com/ETH-PBL/NanoSLAM) - NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots
-
-*   [ETH-PBL/Matrix\_ToF\_Drones](https://github.com/ETH-PBL/Matrix_ToF_Drones) - Indoor Navigation System based on Multi-Pixel Time-of-Flight Imaging for Nano-Drone Applications
-
-*   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-
-*   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
-
-*   [morrownr/8814au](https://github.com/morrownr/8814au) - Linux Driver for USB WiFi Adapters that are based on the RTL8814AU Chipset
-
-*   [tuuzhang/lens-undistortion-with-automatic-method](https://github.com/tuuzhang/lens-undistortion-with-automatic-method) - Lens Distortion Correction Using Two-Parameter Models, polynomial and division models.This method aimed at correct the len's radial distortion without camera calibration.The source code and articles was download from IPOL.
-
-*   [fengbingchun/OpenCV\_Test](https://github.com/fengbingchun/OpenCV_Test) - fbc\_cv is an open source image process library.
-
-*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-
-*   [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
-
-*   [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
-
-*   [iliasam/OpenTOFLidar](https://github.com/iliasam/OpenTOFLidar) - Open Source TOF Lidar
-
-*   [AndreaCensi/csm](https://github.com/AndreaCensi/csm) - The C(canonical) Scan Matcher
-
-*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-
-*   [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
-
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
-
-*   [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
-
-*   [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
-
-*   [DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) - The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A\&M University.
-
-*   [gjasny/v4l-utils](https://github.com/gjasny/v4l-utils) -
-
-*   [aircrack-ng/rtl8814au](https://github.com/aircrack-ng/rtl8814au) - Realtek rtl8814au driver
-
-*   [ZBar/ZBar](https://github.com/ZBar/ZBar) - Clone of the mercurial repository http://zbar.hg.sourceforge.net:8000/hgroot/zbar/zbar
-
-*   [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
-
-*   [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
-
-*   [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
-
-*   [raspberrypi/tools](https://github.com/raspberrypi/tools) -
-
-*   [AprilRobotics/apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
-
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-
-*   [waveshareteam/WM8960-Audio-HAT](https://github.com/waveshareteam/WM8960-Audio-HAT) - The drivers of \[WM8960 Audio HAT] for Raspberry Pi
-
-## Go
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-
-*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-
-*   [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
-
-*   [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
-
-*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-
-*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-
-*   [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
-
-*   [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
-
-*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-
-*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-
-*   [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-
-*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-
-*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
-
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-
 ## C++
+
+*   [HKUST-Aerial-Robotics/GVINS](https://github.com/HKUST-Aerial-Robotics/GVINS) - Tightly coupled GNSS-Visual-Inertial system for locally smooth and globally consistent state estimation in complex environment.
 
 *   [emNavi/Fast-LIO2](https://github.com/emNavi/Fast-LIO2) - 使用 Mid360 激光雷达完成 Fast-LIO2 里程计 + Ego-Planner 规划算法
 
@@ -628,7 +510,7 @@
 
 *   [xiaohong-huang/RTK-Visual-Inertial-Navigation](https://github.com/xiaohong-huang/RTK-Visual-Inertial-Navigation) - A method used sliding window filter frame work for RTK-Visual-Inertial-Navigation
 
-*   [3dv-casia/LSLM\_VLoc](https://github.com/3dv-casia/LSLM_VLoc) - \[RAL 2024]Lightweight Structured Line Map Based Visual Localization
+*   [3dv-casia/LSLM\_VLoc](https://github.com/3dv-casia/LSLM_VLoc) - \[RAL 2024] Lightweight Structured Line Map Based Visual Localization
 
 *   [pangfumin/marginalization](https://github.com/pangfumin/marginalization) - Sample code for marginalization of SLAM, Visual-Inertial Odometry.
 
@@ -1262,6 +1144,128 @@
 
 *   [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 
+## C
+
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+
+*   [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
+
+*   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
+
+*   [AIBluefisher/DAGSfM](https://github.com/AIBluefisher/DAGSfM) - Distributed and Graph-based Structure from Motion. This project includes the official implementation of our Pattern Recognition 2020 paper: Graph-Based Parallel Large Scale Structure from Motion.
+
+*   [InfiniteSenseLab/InfiniteSenseSDK](https://github.com/InfiniteSenseLab/InfiniteSenseSDK) -
+
+*   [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
+
+*   [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
+
+*   [osrf/ovc](https://github.com/osrf/ovc) - the Open Vision Computer
+
+*   [AutonomyLab/ardrone\_autonomy](https://github.com/AutonomyLab/ardrone_autonomy) - ROS driver for Parrot AR-Drone 1.0 and 2.0 quadrocopters
+
+*   [tum-vision/ardrone\_autonomy](https://github.com/tum-vision/ardrone_autonomy) - This is a slightly modified version of the official ardrone\_autonomy package, which You can find here: https://github.com/AutonomyLab/ardrone\_autonomy
+
+*   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+
+*   [ETH-PBL/NanoSLAM](https://github.com/ETH-PBL/NanoSLAM) - NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots
+
+*   [ETH-PBL/Matrix\_ToF\_Drones](https://github.com/ETH-PBL/Matrix_ToF_Drones) - Indoor Navigation System based on Multi-Pixel Time-of-Flight Imaging for Nano-Drone Applications
+
+*   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+
+*   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+
+*   [morrownr/8814au](https://github.com/morrownr/8814au) - Linux Driver for USB WiFi Adapters that are based on the RTL8814AU Chipset
+
+*   [tuuzhang/lens-undistortion-with-automatic-method](https://github.com/tuuzhang/lens-undistortion-with-automatic-method) - Lens Distortion Correction Using Two-Parameter Models, polynomial and division models.This method aimed at correct the len's radial distortion without camera calibration.The source code and articles was download from IPOL.
+
+*   [fengbingchun/OpenCV\_Test](https://github.com/fengbingchun/OpenCV_Test) - fbc\_cv is an open source image process library.
+
+*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+*   [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
+
+*   [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) - Deepin Wine for Ubuntu/Debian
+
+*   [iliasam/OpenTOFLidar](https://github.com/iliasam/OpenTOFLidar) - Open Source TOF Lidar
+
+*   [AndreaCensi/csm](https://github.com/AndreaCensi/csm) - The C(canonical) Scan Matcher
+
+*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+
+*   [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs
+
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+
+*   [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
+
+*   [peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 我的超迷你机械臂机器人项目。
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
+
+*   [DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) - The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A\&M University.
+
+*   [gjasny/v4l-utils](https://github.com/gjasny/v4l-utils) -
+
+*   [aircrack-ng/rtl8814au](https://github.com/aircrack-ng/rtl8814au) - Realtek rtl8814au driver
+
+*   [ZBar/ZBar](https://github.com/ZBar/ZBar) - Clone of the mercurial repository http://zbar.hg.sourceforge.net:8000/hgroot/zbar/zbar
+
+*   [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
+
+*   [google/sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
+
+*   [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
+
+*   [raspberrypi/tools](https://github.com/raspberrypi/tools) -
+
+*   [AprilRobotics/apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
+
+*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+
+*   [waveshareteam/WM8960-Audio-HAT](https://github.com/waveshareteam/WM8960-Audio-HAT) - The drivers of \[WM8960 Audio HAT] for Raspberry Pi
+
+## Go
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+
+*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+
+*   [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+
+*   [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
+
+*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+
+*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+
+*   [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
+
+*   [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
+
+*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+
+*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+
+*   [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+
+*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+
+*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
+
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
@@ -1478,8 +1482,6 @@
 
 *   [xdspacelab/openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
 
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-
 ## Zig
 
 *   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -1617,8 +1619,6 @@
 *   [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 
 *   [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
-
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
 ## Jupyter Notebook
 
