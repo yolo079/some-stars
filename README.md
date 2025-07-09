@@ -9,13 +9,13 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [Rust](#rust)
 *   [C++](#c)
 *   [C](#c-1)
 *   [Go](#go)
 *   [Roff](#roff)
 *   [miscellaneous](#miscellaneous)
 *   [Zig](#zig)
-*   [Rust](#rust)
 *   [Vue](#vue)
 *   [Cuda](#cuda)
 *   [JavaScript](#javascript)
@@ -56,6 +56,8 @@
 
 ## Python
 
+*   [fraunhoferhhi/RIPE](https://github.com/fraunhoferhhi/RIPE) - \[ICCV 2025] Keypoint detection and description learned from image pairs only - no depth, no pose, no artificial augmentation required.
+
 *   [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 
 *   [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 微信 PC 4.0 防撤回/多开补丁工具
@@ -82,7 +84,7 @@
 
 *   [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 
-*   [PyJun/Mooc\_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，中国大学慕课，网易云课堂，有道精品课，有道领世，腾讯课堂，腾讯会议，B站课堂，中公网校，荔枝微课，海豚知道，伯索云，爱问云，百家云，希望学，高顿，高途，途途，研途，学浪，抖音课堂，千聊，兴趣岛，橙啦，超星学习通，学银在线，智慧职教，职教云，知到智慧树，网易公开课，学堂在线，爱课程，华尔街学堂；支持视频课件同时下载
+*   [PyJun/Mooc\_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，中国大学慕课，网易云课堂，有道精品课，有道领世，启航教育，腾讯课堂，腾讯会议，B站课堂，中公网校，荔枝微课，海豚知道，伯索云，爱问云，百家云，希望学，高顿，高途，途途，研途，学浪，抖音课堂，千聊，兴趣岛，橙啦，超星学习通，学银在线，智慧职教，职教云，知到智慧树，网易公开课，学堂在线，爱课程，华尔街学堂；支持视频课件同时下载
 
 *   [noahcao/OC\_SORT](https://github.com/noahcao/OC_SORT) - \[CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion.
 
@@ -389,6 +391,48 @@
 *   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 *   [HeYijia/vio\_data\_simulation](https://github.com/HeYijia/vio_data_simulation) - Generate imu data and feature in camera frame. You can use this data to test your VINS.
+
+## Rust
+
+*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
+
+*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+
+*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [code-cp/msckf-rust](https://github.com/code-cp/msckf-rust) -
+
+*   [ferstar/gestures](https://github.com/ferstar/gestures) - Fast touchpad gesture tool
+
+*   [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+
+*   [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## C++
 
@@ -1480,51 +1524,9 @@
 
 *   [opencv/opencv\_3rdparty](https://github.com/opencv/opencv_3rdparty) - OpenCV - 3rdparty
 
-*   [xdspacelab/openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
-
 ## Zig
 
 *   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-
-## Rust
-
-*   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
-
-*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [code-cp/msckf-rust](https://github.com/code-cp/msckf-rust) -
-
-*   [ferstar/gestures](https://github.com/ferstar/gestures) - Fast touchpad gesture tool
-
-*   [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-
-*   [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
-
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## Vue
 
@@ -2031,8 +2033,6 @@
 *   [Nasller/CodeGlancePro](https://github.com/Nasller/CodeGlancePro) - Minimap run on jetbrains platform.
 
 *   [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
-
-*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
 
 ## Dockerfile
 
