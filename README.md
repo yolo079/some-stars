@@ -530,7 +530,7 @@
 
 *   [ai-winter/ros\_motion\_planning](https://github.com/ai-winter/ros_motion_planning) - Motion planning and Navigation of AGV/AMR：ROS planner plugin implementation of A\*, JPS, D\*, LPA\*, D\* Lite, Theta\*, RRT, RRT\*, RRT-Connect, Informed RRT\*, ACO, PSO, Voronoi, PID, LQR, MPC, DWA, APF, Pure Pursuit etc.
 
-*   [Seneral/MakersVR](https://github.com/Seneral/MakersVR) - A cheap optical tracking system for room-scale VR and other applications
+*   [Seneral/MakersVR](https://github.com/Seneral/MakersVR) - A cheap optical tracking system for room-scale VR and other applications - Moved to https://github.com/AsterTrack/AsterTrack
 
 *   [locusrobotics/fuse](https://github.com/locusrobotics/fuse) - The fuse stack provides a general architecture for performing sensor fusion live on a robot. Some possible applications include state estimation, localization, mapping, and calibration.
 
