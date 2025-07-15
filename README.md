@@ -8,6 +8,8 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
+*   [PowerShell](#powershell)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [C++](#c)
@@ -21,7 +23,6 @@
 *   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
-*   [Shell](#shell)
 *   [C#](#c-2)
 *   [Vala](#vala)
 *   [Lua](#lua)
@@ -54,7 +55,75 @@
 *   [Ruby](#ruby)
 *   [Clojure](#clojure)
 
+## Shell
+
+*   [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
+
+*   [Menghuan1918/uvv](https://github.com/Menghuan1918/uvv) - Easier use of package manager uv in the form of conda.               以conda的形式更轻松的使用包管理器uv。
+
+*   [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - 基于Clash Core 制作的Clash For Linux备份仓库      A Clash For Linux Backup Warehouse Based on Clash Core
+
+*   [lomorage/lomo-docker](https://github.com/lomorage/lomo-docker) - Lomorage Raspberry Pi docker image
+
+*   [zsbai/wechat-versions](https://github.com/zsbai/wechat-versions) - 保存微信历史版本
+
+*   [prontera/ideavimrc](https://github.com/prontera/ideavimrc) - IntelliJ IDEA的VIM键位配置，快速配置USTC源
+
+*   [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+
+*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+
+*   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
+
+*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
+
+*   [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+
+*   [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
+
+*   [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+
+*   [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
+
+*   [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+
+*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+
+*   [himanshub16/ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
+
+*   [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
+
+*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+
+*   [jetsonhacks/bootFromExternalStorage](https://github.com/jetsonhacks/bootFromExternalStorage) - Shell scripts to setup a NVIDIA Jetson AGX Xavier, Xavier NX, AGX Orin, or Orin Nano Developer Kit to boot from external storage.
+
+*   [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
+
+*   [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
+
+*   [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace
+
+*   [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+
+*   [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+
+*   [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
+
+*   [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+
+## PowerShell
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
 ## Python
+
+*   [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
 
 *   [fraunhoferhhi/RIPE](https://github.com/fraunhoferhhi/RIPE) - \[ICCV 2025] Keypoint detection and description learned from image pairs only - no depth, no pose, no artificial augmentation required.
 
@@ -1184,10 +1253,6 @@
 
 *   [tum-vision/LDSO](https://github.com/tum-vision/LDSO) - DSO with SIM(3) pose graph optimization and loop closure
 
-*   [rmsalinas/DBow3](https://github.com/rmsalinas/DBow3) - Improved version of DBow2
-
-*   [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
-
 ## C
 
 *   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -1620,8 +1685,6 @@
 
 *   [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 
-*   [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
-
 ## Jupyter Notebook
 
 *   [scape-research/SOSNet](https://github.com/scape-research/SOSNet) - Pretrained pytorch model for the SOSNet descriptor \[CVPR 2019]
@@ -1729,66 +1792,6 @@
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 *   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-
-*   [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
-
-## Shell
-
-*   [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - 基于Clash Core 制作的Clash For Linux备份仓库      A Clash For Linux Backup Warehouse Based on Clash Core
-
-*   [lomorage/lomo-docker](https://github.com/lomorage/lomo-docker) - Lomorage Raspberry Pi docker image
-
-*   [zsbai/wechat-versions](https://github.com/zsbai/wechat-versions) - 保存微信历史版本
-
-*   [prontera/ideavimrc](https://github.com/prontera/ideavimrc) - IntelliJ IDEA的VIM键位配置，快速配置USTC源
-
-*   [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
-
-*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-
-*   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
-
-*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
-
-*   [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
-
-*   [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
-
-*   [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
-
-*   [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
-
-*   [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
-
-*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-
-*   [himanshub16/ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
-
-*   [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
-
-*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
-
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-
-*   [jetsonhacks/bootFromExternalStorage](https://github.com/jetsonhacks/bootFromExternalStorage) - Shell scripts to setup a NVIDIA Jetson AGX Xavier, Xavier NX, AGX Orin, or Orin Nano Developer Kit to boot from external storage.
-
-*   [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
-
-*   [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
-
-*   [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace
-
-*   [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
-
-*   [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-
-*   [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
-
-*   [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ## C\#
 
