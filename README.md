@@ -8,9 +8,11 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [Java](#java)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
 *   [PowerShell](#powershell)
-*   [Python](#python)
 *   [Rust](#rust)
 *   [C++](#c)
 *   [C](#c-1)
@@ -21,7 +23,6 @@
 *   [Vue](#vue)
 *   [Cuda](#cuda)
 *   [JavaScript](#javascript)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [C#](#c-2)
 *   [Vala](#vala)
@@ -29,7 +30,6 @@
 *   [Vim Script](#vim-script)
 *   [MATLAB](#matlab)
 *   [Visual Basic .NET](#visual-basic-net)
-*   [Java](#java)
 *   [Swift](#swift)
 *   [HTML](#html)
 *   [Makefile](#makefile)
@@ -55,73 +55,9 @@
 *   [Ruby](#ruby)
 *   [Clojure](#clojure)
 
-## Shell
-
-*   [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
-
-*   [Menghuan1918/uvv](https://github.com/Menghuan1918/uvv) - Easier use of package manager uv in the form of conda.               以conda的形式更轻松的使用包管理器uv。
-
-*   [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - 基于Clash Core 制作的Clash For Linux备份仓库      A Clash For Linux Backup Warehouse Based on Clash Core
-
-*   [lomorage/lomo-docker](https://github.com/lomorage/lomo-docker) - Lomorage Raspberry Pi docker image
-
-*   [zsbai/wechat-versions](https://github.com/zsbai/wechat-versions) - 保存微信历史版本
-
-*   [prontera/ideavimrc](https://github.com/prontera/ideavimrc) - IntelliJ IDEA的VIM键位配置，快速配置USTC源
-
-*   [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
-
-*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-
-*   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
-
-*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
-
-*   [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
-
-*   [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
-
-*   [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
-
-*   [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
-
-*   [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
-
-*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-
-*   [himanshub16/ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
-
-*   [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
-
-*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
-
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-
-*   [jetsonhacks/bootFromExternalStorage](https://github.com/jetsonhacks/bootFromExternalStorage) - Shell scripts to setup a NVIDIA Jetson AGX Xavier, Xavier NX, AGX Orin, or Orin Nano Developer Kit to boot from external storage.
-
-*   [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
-
-*   [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
-
-*   [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace
-
-*   [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
-
-*   [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-
-*   [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
-
-*   [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-
-## PowerShell
-
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
 ## Python
+
+*   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
 *   [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
 
@@ -460,6 +396,158 @@
 *   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 *   [HeYijia/vio\_data\_simulation](https://github.com/HeYijia/vio_data_simulation) - Generate imu data and feature in camera frame. You can use this data to test your VINS.
+
+## Java
+
+*   [AprilRobotics/apriltag-generation](https://github.com/AprilRobotics/apriltag-generation) - Generate AprilTags in custom layouts
+
+*   [DavidGillsjo/VideoIMUCapture-Android](https://github.com/DavidGillsjo/VideoIMUCapture-Android) - Android application for capture of Video, IMU data and Camera data useful in SLAM and Structure from Motion research. Differs between Optical Image Stabilization (OIS) and Digital Video Stabilization (DVS) and can provide OIS data if the device supports it.
+
+*   [lessthanoptimal/BoofCV](https://github.com/lessthanoptimal/BoofCV) - Fast computer vision library for SFM, calibration, fiducials, tracking,  image processing, and more.
+
+*   [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
+
+*   [finogeeks/finclip-android-demo](https://github.com/finogeeks/finclip-android-demo) - 小程序引擎 FinClip 安卓运行环境，让小程序在安卓应用中无缝运行  / Android DEMO for FinClip
+
+*   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
+
+*   [ogrebenyuk/compilerexplorer](https://github.com/ogrebenyuk/compilerexplorer) - Compiler Explorer plugin for CLion. This plugin shows compilation results from a remote Compiler Explorer instance.
+
+*   [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
+
+*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+
+*   [Rugal/commitlinter-maven-plugin](https://github.com/Rugal/commitlinter-maven-plugin) - Maven plugin for linting git commit message
+
+*   [krasa/GrepConsole](https://github.com/krasa/GrepConsole) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125
+
+*   [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
+
+*   [huaibovip/android\_ros\_sensors](https://github.com/huaibovip/android_ros_sensors) - android\_ros\_sensors
+
+## Jupyter Notebook
+
+*   [proroklab/DVM-SLAM](https://github.com/proroklab/DVM-SLAM) -
+
+*   [scape-research/SOSNet](https://github.com/scape-research/SOSNet) - Pretrained pytorch model for the SOSNet descriptor \[CVPR 2019]
+
+*   [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+
+*   [Linketic/CityGaussian](https://github.com/Linketic/CityGaussian) - CityGaussian Series for High-quality Large-Scale Scene Reconstruction with Gaussians
+
+*   [quandy2020/LTSLAM](https://github.com/quandy2020/LTSLAM) - You can learn slam step by step，there are lot of tutorials
+
+*   [debOliveira/MoCapRasp](https://github.com/debOliveira/MoCapRasp) - Motion capture arena using only Raspberry Pi and open source libraries
+
+*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
+
+*   [SJTU-ViSYS/FeatureBooster](https://github.com/SJTU-ViSYS/FeatureBooster) - FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network (CVPR 2023)
+
+*   [lturing/ORB\_SLAM3\_modified](https://github.com/lturing/ORB_SLAM3_modified) - 安卓手机适配orb slam3，运行mono-inertial
+
+*   [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving) - Each chapter of this (mini-)book guides you in programming one important software component for automated driving.
+
+*   [ChawlaAvi/Daily-Dose-of-Data-Science](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) - A collection of code snippets from the publication Daily Dose of Data Science on Substack: http://www.dailydoseofds.com/
+
+*   [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowering seamless conversion of visual content into text-based representations. 80+ languages are supported.
+
+*   [polygon-software/python-visual-odometry](https://github.com/polygon-software/python-visual-odometry) - Python implementation of Visual Odometry algorithms from http://rpg.ifi.uzh.ch/
+
+*   [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+
+*   [Visualize-ML/Book3\_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) - Book\_3\_《数学要素》 |   鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！
+
+*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
+
+*   [eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python) - 该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。
+
+*   [zju3dv/snake](https://github.com/zju3dv/snake) - Code for "Deep Snake for Real-Time Instance Segmentation" CVPR 2020 oral
+
+*   [enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects) - computer vision projects |  计算机视觉相关好玩的AI项目（Python、C++、embedded system）
+
+*   [MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) - Build your neural network easy and fast, 莫烦Python中文教学
+
+*   [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
+
+*   [eric-yyjau/pytorch-superpoint](https://github.com/eric-yyjau/pytorch-superpoint) - Superpoint Implemented in PyTorch: https://arxiv.org/abs/1712.07629
+
+*   [nianticlabs/monodepth2](https://github.com/nianticlabs/monodepth2) - \[ICCV 2019] Monocular depth estimation from a single image
+
+*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
+
+*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+
+*   [ksakmann/Particle-Filter](https://github.com/ksakmann/Particle-Filter) - A particle filter to localize a car using LIDAR data
+
+*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
+
+## Shell
+
+*   [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
+
+*   [Menghuan1918/uvv](https://github.com/Menghuan1918/uvv) - Easier use of package manager uv in the form of conda.               以conda的形式更轻松的使用包管理器uv。
+
+*   [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - 基于Clash Core 制作的Clash For Linux备份仓库      A Clash For Linux Backup Warehouse Based on Clash Core
+
+*   [lomorage/lomo-docker](https://github.com/lomorage/lomo-docker) - Lomorage Raspberry Pi docker image
+
+*   [zsbai/wechat-versions](https://github.com/zsbai/wechat-versions) - 保存微信历史版本
+
+*   [prontera/ideavimrc](https://github.com/prontera/ideavimrc) - IntelliJ IDEA的VIM键位配置，快速配置USTC源
+
+*   [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+
+*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+
+*   [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
+
+*   [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms.
+
+*   [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+
+*   [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
+
+*   [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+
+*   [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
+
+*   [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+
+*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+
+*   [himanshub16/ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
+
+*   [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
+
+*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+
+*   [jetsonhacks/bootFromExternalStorage](https://github.com/jetsonhacks/bootFromExternalStorage) - Shell scripts to setup a NVIDIA Jetson AGX Xavier, Xavier NX, AGX Orin, or Orin Nano Developer Kit to boot from external storage.
+
+*   [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
+
+*   [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
+
+*   [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace
+
+*   [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+
+*   [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+
+*   [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
+
+*   [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+
+## PowerShell
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 ## Rust
 
@@ -1251,8 +1339,6 @@
 
 *   [HKUST-Aerial-Robotics/VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
 
-*   [tum-vision/LDSO](https://github.com/tum-vision/LDSO) - DSO with SIM(3) pose graph optimization and loop closure
-
 ## C
 
 *   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -1336,8 +1422,6 @@
 *   [AprilRobotics/apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
 
 *   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-
-*   [waveshareteam/WM8960-Audio-HAT](https://github.com/waveshareteam/WM8960-Audio-HAT) - The drivers of \[WM8960 Audio HAT] for Raspberry Pi
 
 ## Go
 
@@ -1683,64 +1767,6 @@
 
 *   [suziwen/roadbike](https://github.com/suziwen/roadbike) - 小书匠官网博客源码
 
-*   [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-
-## Jupyter Notebook
-
-*   [scape-research/SOSNet](https://github.com/scape-research/SOSNet) - Pretrained pytorch model for the SOSNet descriptor \[CVPR 2019]
-
-*   [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-
-*   [Linketic/CityGaussian](https://github.com/Linketic/CityGaussian) - CityGaussian Series for High-quality Large-Scale Scene Reconstruction with Gaussians
-
-*   [quandy2020/LTSLAM](https://github.com/quandy2020/LTSLAM) - You can learn slam step by step，there are lot of tutorials
-
-*   [debOliveira/MoCapRasp](https://github.com/debOliveira/MoCapRasp) - Motion capture arena using only Raspberry Pi and open source libraries
-
-*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
-
-*   [SJTU-ViSYS/FeatureBooster](https://github.com/SJTU-ViSYS/FeatureBooster) - FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network (CVPR 2023)
-
-*   [lturing/ORB\_SLAM3\_modified](https://github.com/lturing/ORB_SLAM3_modified) - 安卓手机适配orb slam3，运行mono-inertial
-
-*   [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving) - Each chapter of this (mini-)book guides you in programming one important software component for automated driving.
-
-*   [ChawlaAvi/Daily-Dose-of-Data-Science](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) - A collection of code snippets from the publication Daily Dose of Data Science on Substack: http://www.dailydoseofds.com/
-
-*   [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowering seamless conversion of visual content into text-based representations. 80+ languages are supported.
-
-*   [polygon-software/python-visual-odometry](https://github.com/polygon-software/python-visual-odometry) - Python implementation of Visual Odometry algorithms from http://rpg.ifi.uzh.ch/
-
-*   [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-
-*   [Visualize-ML/Book3\_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) - Book\_3\_《数学要素》 |   鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！
-
-*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
-
-*   [eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python) - 该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。
-
-*   [zju3dv/snake](https://github.com/zju3dv/snake) - Code for "Deep Snake for Real-Time Instance Segmentation" CVPR 2020 oral
-
-*   [enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects) - computer vision projects |  计算机视觉相关好玩的AI项目（Python、C++、embedded system）
-
-*   [MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) - Build your neural network easy and fast, 莫烦Python中文教学
-
-*   [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
-
-*   [eric-yyjau/pytorch-superpoint](https://github.com/eric-yyjau/pytorch-superpoint) - Superpoint Implemented in PyTorch: https://arxiv.org/abs/1712.07629
-
-*   [nianticlabs/monodepth2](https://github.com/nianticlabs/monodepth2) - \[ICCV 2019] Monocular depth estimation from a single image
-
-*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
-
-*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-
-*   [ksakmann/Particle-Filter](https://github.com/ksakmann/Particle-Filter) - A particle filter to localize a car using LIDAR data
-
-*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
-
 ## TypeScript
 
 *   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
@@ -1928,32 +1954,6 @@
 ## Visual Basic .NET
 
 *   [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
-
-## Java
-
-*   [DavidGillsjo/VideoIMUCapture-Android](https://github.com/DavidGillsjo/VideoIMUCapture-Android) - Android application for capture of Video, IMU data and Camera data useful in SLAM and Structure from Motion research. Differs between Optical Image Stabilization (OIS) and Digital Video Stabilization (DVS) and can provide OIS data if the device supports it.
-
-*   [lessthanoptimal/BoofCV](https://github.com/lessthanoptimal/BoofCV) - Fast computer vision library for SFM, calibration, fiducials, tracking,  image processing, and more.
-
-*   [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
-
-*   [finogeeks/finclip-android-demo](https://github.com/finogeeks/finclip-android-demo) - 小程序引擎 FinClip 安卓运行环境，让小程序在安卓应用中无缝运行  / Android DEMO for FinClip
-
-*   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
-
-*   [ogrebenyuk/compilerexplorer](https://github.com/ogrebenyuk/compilerexplorer) - Compiler Explorer plugin for CLion. This plugin shows compilation results from a remote Compiler Explorer instance.
-
-*   [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
-
-*   [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-
-*   [Rugal/commitlinter-maven-plugin](https://github.com/Rugal/commitlinter-maven-plugin) - Maven plugin for linting git commit message
-
-*   [krasa/GrepConsole](https://github.com/krasa/GrepConsole) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125
-
-*   [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
-
-*   [huaibovip/android\_ros\_sensors](https://github.com/huaibovip/android_ros_sensors) - android\_ros\_sensors
 
 ## Swift
 
