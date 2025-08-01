@@ -459,7 +459,7 @@
 
 *   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
-*   [ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo) - PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS\&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！
+*   [ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo) - PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS\&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学！
 
 *   [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 
@@ -501,7 +501,7 @@
 
 *   [XiaoSong9905/GCNv2](https://github.com/XiaoSong9905/GCNv2) - \[Under Development] OpenCV compatable GCNv2 feature descriptor used in GCNv2-SLAM
 
-*   [ethan-li-coding/AD-Census](https://github.com/ethan-li-coding/AD-Census) - AD-Census立体匹配算法，中国学者Xing Mei等人研究成果（Respect！），算法效率高、效果出色，适合硬件加速，Intel RealSense D400 Stereo模块算法。完整实现，代码规范，注释清晰，欢迎star！
+*   [ethan-li-coding/AD-Census](https://github.com/ethan-li-coding/AD-Census) - AD-Census立体匹配算法，中国学者Xing Mei等人研究成果（Respect！），算法效率高、效果出色，适合硬件加速，Intel RealSense D400 Stereo模块算法。完整实现，代码规范，注释清晰！
 
 *   [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
 
@@ -713,7 +713,7 @@
 
 *   [TixiaoShan/imaging\_lidar\_place\_recognition](https://github.com/TixiaoShan/imaging_lidar_place_recognition) - ICRA 2021 - Robust Place Recognition using an Imaging Lidar
 
-*   [ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching) - SGM，立体匹配StereoMatching最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学，欢迎star！
+*   [ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching) - SGM，立体匹配StereoMatching最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学！
 
 *   [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) - edition 2 of the slambook
 
