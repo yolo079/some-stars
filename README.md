@@ -1164,6 +1164,8 @@
 
 *   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
+*   [HeYijia/vio\_data\_simulation](https://github.com/HeYijia/vio_data_simulation) - Generate imu data and feature in camera frame. You can use this data to test your VINS.
+
 ## Java
 
 *   [AprilRobotics/apriltag-generation](https://github.com/AprilRobotics/apriltag-generation) - Generate AprilTags in custom layouts
@@ -1259,8 +1261,6 @@
 *   [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - 基于Clash Core 制作的Clash For Linux备份仓库      A Clash For Linux Backup Warehouse Based on Clash Core
 
 *   [lomorage/lomo-docker](https://github.com/lomorage/lomo-docker) - Lomorage Raspberry Pi docker image
 
