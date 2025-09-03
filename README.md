@@ -868,7 +868,7 @@
 
 *   [ethan-li-coding/AD-Census](https://github.com/ethan-li-coding/AD-Census) - AD-Census立体匹配算法，中国学者Xing Mei等人研究成果（Respect！），算法效率高、效果出色，适合硬件加速，Intel RealSense D400 Stereo模块算法。完整实现，代码规范，注释清晰！
 
-*   [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠 A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
+*   [xlite-dev/lite.ai.toolkit](https://github.com/xlite-dev/lite.ai.toolkit) - 🛠A lite C++ AI toolkit: 100+ models with MNN, ORT and TRT, including Det, Seg, Stable-Diffusion, Face-Fusion, etc.🎉
 
 *   [kmkolasinski/AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) - AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. Since the image processing is done in 99% on GPU  the program runs very fast and all the parameters can be changed in real time. AB was made to be a new alternative to known gimp plugin called Insane Bump.
 
