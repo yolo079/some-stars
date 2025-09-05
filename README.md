@@ -22,9 +22,10 @@
 *   [C](#c-2)
 *   [Go](#go)
 *   [Roff](#roff)
-*   [miscellaneous](#miscellaneous)
+*   [TeX](#tex)
 *   [Zig](#zig)
 *   [Vue](#vue)
+*   [miscellaneous](#miscellaneous)
 *   [Cuda](#cuda)
 *   [JavaScript](#javascript)
 *   [Vala](#vala)
@@ -37,7 +38,6 @@
 *   [Makefile](#makefile)
 *   [OpenEdge ABL](#openedge-abl)
 *   [Kotlin](#kotlin)
-*   [TeX](#tex)
 *   [PostScript](#postscript)
 *   [F#](#f)
 *   [Objective-C](#objective-c)
@@ -1564,9 +1564,25 @@
 
 *   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
-## miscellaneous
+## TeX
 
 *   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
+
+*   [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold) - LaTeX sources of the technical report "A tutorial on SE(3) transformation parameterizations and on-manifold optimization"
+
+## Zig
+
+*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+
+## Vue
+
+*   [MegEngine/MegSpot](https://github.com/MegEngine/MegSpot) - MegSpot是一款高效、专业、跨平台的图片&视频对比应用
+
+*   [langzhou/siyuan-note](https://github.com/langzhou/siyuan-note) - 思源笔记美化教程
+
+*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+
+## miscellaneous
 
 *   [HKUST-Aerial-Robotics/OmniNxt](https://github.com/HKUST-Aerial-Robotics/OmniNxt) - \[IROS'24 Oral] A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception
 
@@ -1763,18 +1779,6 @@
 *   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 *   [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
-
-## Zig
-
-*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-
-## Vue
-
-*   [MegEngine/MegSpot](https://github.com/MegEngine/MegSpot) - MegSpot是一款高效、专业、跨平台的图片&视频对比应用
-
-*   [langzhou/siyuan-note](https://github.com/langzhou/siyuan-note) - 思源笔记美化教程
-
-*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 
 ## Cuda
 
@@ -2051,10 +2055,6 @@
 *   [Nasller/CodeGlancePro](https://github.com/Nasller/CodeGlancePro) - Minimap run on jetbrains platform.
 
 *   [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
-
-## TeX
-
-*   [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold) - LaTeX sources of the technical report "A tutorial on SE(3) transformation parameterizations and on-manifold optimization"
 
 ## PostScript
 
