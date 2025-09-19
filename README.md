@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Jinja](#jinja)
 *   [Dockerfile](#dockerfile)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [CSS](#css)
-*   [C#](#c-1)
 *   [Java](#java)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
@@ -54,6 +54,32 @@
 *   [PHP](#php)
 *   [Ruby](#ruby)
 *   [Clojure](#clojure)
+
+## C\#
+
+*   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
+
+*   [konbakuyomu/md2visio-gui](https://github.com/konbakuyomu/md2visio-gui) -
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [zetaloop/PowerToys-CN](https://github.com/zetaloop/PowerToys-CN) - PowerToys Simplified Chinese Translation 微软增强工具箱 自制汉化
+
+*   [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
+
+*   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+
+*   [keijiro/Rsvfx](https://github.com/keijiro/Rsvfx) - An example that shows how to connect RealSense depth camera to Unity VFX Graph
+
+*   [stereolabs/zed-unity](https://github.com/stereolabs/zed-unity) - ZED SDK Unity plugin
+
+*   [dioram/Elektronik](https://github.com/dioram/Elektronik) - Инструмент для тестирования и отладки SLAM. Tools for testing and debugging SLAM.
+
+*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 ## miscellaneous
 
@@ -251,8 +277,6 @@
 
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
-*   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-
 ## Python
 
 *   [jessebloecker/vinlab](https://github.com/jessebloecker/vinlab) - Tools for generating, evaluating, and visualizing 3D motion.
@@ -279,7 +303,7 @@
 
 *   [tberriel/OVO](https://github.com/tberriel/OVO) - Official repository of "Open-Vocabulary Online Semantic Mapping for SLAM"
 
-*   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
+*   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - \[NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling
 
 *   [nianticlabs/doubletake](https://github.com/nianticlabs/doubletake) - \[ECCV 2024] DoubleTake: Geometry Guided Depth Estimation
 
@@ -1366,30 +1390,6 @@
 *   [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 
 *   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-
-## C\#
-
-*   [konbakuyomu/md2visio-gui](https://github.com/konbakuyomu/md2visio-gui) -
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [zetaloop/PowerToys-CN](https://github.com/zetaloop/PowerToys-CN) - PowerToys Simplified Chinese Translation 微软增强工具箱 自制汉化
-
-*   [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
-
-*   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-
-*   [keijiro/Rsvfx](https://github.com/keijiro/Rsvfx) - An example that shows how to connect RealSense depth camera to Unity VFX Graph
-
-*   [stereolabs/zed-unity](https://github.com/stereolabs/zed-unity) - ZED SDK Unity plugin
-
-*   [dioram/Elektronik](https://github.com/dioram/Elektronik) - Инструмент для тестирования и отладки SLAM. Tools for testing and debugging SLAM.
-
-*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 ## Java
 
