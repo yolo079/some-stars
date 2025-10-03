@@ -12,10 +12,11 @@
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [C#](#c)
-*   [C++](#c-1)
+*   [SWIG](#swig)
 *   [Kotlin](#kotlin)
 *   [Jinja](#jinja)
 *   [Dockerfile](#dockerfile)
+*   [C++](#c-1)
 *   [CSS](#css)
 *   [Java](#java)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -304,6 +305,8 @@
 *   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 *   [qqfly/how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) - 开源机器人学学习指南
+
+*   [suziwen/markdownxiaoshujiang](https://github.com/suziwen/markdownxiaoshujiang) - 小书匠是一款本地优先，去中心化，分布式，支持选择性同步的全平台覆盖知识管理笔记软件。
 
 ## Python
 
@@ -677,9 +680,51 @@
 
 *   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
-## C++
+## SWIG
 
 *   [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
+
+## Kotlin
+
+*   [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
+
+*   [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
+
+*   [TheBlob42/idea-which-key](https://github.com/TheBlob42/idea-which-key) - IdeaVim extension that displays available keybindings in a popup
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [hadix-lin/ideavim\_extension](https://github.com/hadix-lin/ideavim_extension) - IdeaVIM插件的扩展插件
+
+*   [dinbtechit/vscode-theme](https://github.com/dinbtechit/vscode-theme) - VSCode theme for all Jetbrains IDEs
+
+*   [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
+
+*   [FirstTimeInForever/intellij-pdf-viewer](https://github.com/FirstTimeInForever/intellij-pdf-viewer) - Plugin for viewing PDF documents in IntelliJ-based IDEs.
+
+*   [Hannah-Sten/TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - LaTeX support for the IntelliJ platform by JetBrains.
+
+*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+
+*   [Nasller/CodeGlancePro](https://github.com/Nasller/CodeGlancePro) - Minimap run on jetbrains platform.
+
+*   [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
+
+## Jinja
+
+*   [ctu-mrs/mrs\_uav\_gazebo\_simulator](https://github.com/ctu-mrs/mrs_uav_gazebo_simulator) - Metapackage for the MRS UAV Gazebo simulation pipeline.
+
+## Dockerfile
+
+*   [FredTingaud/bench-runner](https://github.com/FredTingaud/bench-runner) - Docker runner for build-bench
+
+*   [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
+
+*   [zijiechenrobotics/slam\_in\_autonomous\_driving\_docker](https://github.com/zijiechenrobotics/slam_in_autonomous_driving_docker) - the standard development environment for shenlan slam in autonomous driving course
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+
+## C++
 
 *   [facontidavide/CPP\_Optimizations\_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) - Tips and tricks to optimize your C++ code
 
@@ -834,8 +879,6 @@
 *   [jhacsonmeza/CNN-MarkerDetect](https://github.com/jhacsonmeza/CNN-MarkerDetect) - Real-time single marker detection using LibTorch
 
 *   [rmsalinas/fbow](https://github.com/rmsalinas/fbow) - FBOW (Fast Bag of Words) is an extremmely optimized version of the DBow2/DBow3 libraries.
-
-*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 
 *   [changh95/fastcampus\_slam\_codes](https://github.com/changh95/fastcampus_slam_codes) - Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series
 
@@ -1422,46 +1465,6 @@
 *   [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
 
 *   [BoomFan/ORB\_SLAM2](https://github.com/BoomFan/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
-
-## Kotlin
-
-*   [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
-
-*   [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
-
-*   [TheBlob42/idea-which-key](https://github.com/TheBlob42/idea-which-key) - IdeaVim extension that displays available keybindings in a popup
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [hadix-lin/ideavim\_extension](https://github.com/hadix-lin/ideavim_extension) - IdeaVIM插件的扩展插件
-
-*   [dinbtechit/vscode-theme](https://github.com/dinbtechit/vscode-theme) - VSCode theme for all Jetbrains IDEs
-
-*   [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
-
-*   [FirstTimeInForever/intellij-pdf-viewer](https://github.com/FirstTimeInForever/intellij-pdf-viewer) - Plugin for viewing PDF documents in IntelliJ-based IDEs.
-
-*   [Hannah-Sten/TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - LaTeX support for the IntelliJ platform by JetBrains.
-
-*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-
-*   [Nasller/CodeGlancePro](https://github.com/Nasller/CodeGlancePro) - Minimap run on jetbrains platform.
-
-*   [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
-
-## Jinja
-
-*   [ctu-mrs/mrs\_uav\_gazebo\_simulator](https://github.com/ctu-mrs/mrs_uav_gazebo_simulator) - Metapackage for the MRS UAV Gazebo simulation pipeline.
-
-## Dockerfile
-
-*   [FredTingaud/bench-runner](https://github.com/FredTingaud/bench-runner) - Docker runner for build-bench
-
-*   [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
-
-*   [zijiechenrobotics/slam\_in\_autonomous\_driving\_docker](https://github.com/zijiechenrobotics/slam_in_autonomous_driving_docker) - the standard development environment for shenlan slam in autonomous driving course
-
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
 ## CSS
 
