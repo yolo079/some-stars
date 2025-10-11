@@ -9,16 +9,16 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [miscellaneous](#miscellaneous)
+*   [C++](#c)
 *   [PostScript](#postscript)
 *   [CMake](#cmake)
 *   [TypeScript](#typescript)
-*   [miscellaneous](#miscellaneous)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [SWIG](#swig)
 *   [Kotlin](#kotlin)
 *   [Jinja](#jinja)
 *   [Dockerfile](#dockerfile)
-*   [C++](#c-1)
 *   [CSS](#css)
 *   [Java](#java)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -57,6 +57,8 @@
 *   [Clojure](#clojure)
 
 ## Python
+
+*   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
 *   [Dod-o/Statistical-Learning-Method\_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
 
@@ -404,87 +406,9 @@
 
 *   [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
 
-*   [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM
-
-## PostScript
-
-*   [kf-liu/The-Art-of-Linear-Algebra-zh-CN](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone", 线性代数的艺术中文版, 欢迎PR.
-
-*   [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
-
-## CMake
-
-*   [mint-lab/3dv\_tutorial](https://github.com/mint-lab/3dv_tutorial) - An Invitation to 3D Vision: A Tutorial for Everyone
-
-*   [XiaoJake/clion\_carto\_ws](https://github.com/XiaoJake/clion_carto_ws) - 用CLion+Cmake同时管理cartographer和cartographer\_ros，实现对carto的编译、debug单步调试
-
-*   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-
-*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
-
-*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
-
-*   [larics/cartographer\_superbuild](https://github.com/larics/cartographer_superbuild) -
-
-*   [peter-moran/jetson\_csi\_cam](https://github.com/peter-moran/jetson_csi_cam) - A ROS package making it simple to use CSI cameras on the Nvidia Jetson TK1, TX1, or TX2 with ROS.
-
-## TypeScript
-
-*   [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
-
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-*   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
-
-*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
-
-*   [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
-
-*   [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [Wxh16144/backup-cli](https://github.com/Wxh16144/backup-cli) - 一键备份你的生产力工具配置
-
-*   [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-
-*   [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
-
-*   [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
-
-*   [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -
-
-*   [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
-
-*   [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
-
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-
-*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-
-*   [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
-
-*   [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
-
-*   [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
-
-*   [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-*   [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
-
-*   [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-
-*   [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
-
-*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-
-*   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-
 ## miscellaneous
+
+*   [LSXiang/Journey2SLAM](https://github.com/LSXiang/Journey2SLAM) - A site to note Knowledge point during learning SLAM
 
 *   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
@@ -678,79 +602,9 @@
 
 *   [qqfly/how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) - 开源机器人学学习指南
 
-## C\#
-
-*   [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
-
-*   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
-
-*   [konbakuyomu/md2visio-gui](https://github.com/konbakuyomu/md2visio-gui) -
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [zetaloop/PowerToys-CN](https://github.com/zetaloop/PowerToys-CN) - PowerToys Simplified Chinese Translation 微软增强工具箱 自制汉化
-
-*   [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
-
-*   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-
-*   [keijiro/Rsvfx](https://github.com/keijiro/Rsvfx) - An example that shows how to connect RealSense depth camera to Unity VFX Graph
-
-*   [stereolabs/zed-unity](https://github.com/stereolabs/zed-unity) - ZED SDK Unity plugin
-
-*   [dioram/Elektronik](https://github.com/dioram/Elektronik) - Инструмент для тестирования и отладки SLAM. Tools for testing and debugging SLAM.
-
-*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-## SWIG
-
-*   [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
-
-## Kotlin
-
-*   [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
-
-*   [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
-
-*   [TheBlob42/idea-which-key](https://github.com/TheBlob42/idea-which-key) - IdeaVim extension that displays available keybindings in a popup
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [hadix-lin/ideavim\_extension](https://github.com/hadix-lin/ideavim_extension) - IdeaVIM插件的扩展插件
-
-*   [dinbtechit/vscode-theme](https://github.com/dinbtechit/vscode-theme) - VSCode theme for all Jetbrains IDEs
-
-*   [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
-
-*   [FirstTimeInForever/intellij-pdf-viewer](https://github.com/FirstTimeInForever/intellij-pdf-viewer) - Plugin for viewing PDF documents in IntelliJ-based IDEs.
-
-*   [Hannah-Sten/TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - LaTeX support for the IntelliJ platform by JetBrains.
-
-*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-
-*   [Nasller/CodeGlancePro](https://github.com/Nasller/CodeGlancePro) - Minimap run on jetbrains platform.
-
-*   [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
-
-## Jinja
-
-*   [ctu-mrs/mrs\_uav\_gazebo\_simulator](https://github.com/ctu-mrs/mrs_uav_gazebo_simulator) - Metapackage for the MRS UAV Gazebo simulation pipeline.
-
-## Dockerfile
-
-*   [FredTingaud/bench-runner](https://github.com/FredTingaud/bench-runner) - Docker runner for build-bench
-
-*   [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
-
-*   [zijiechenrobotics/slam\_in\_autonomous\_driving\_docker](https://github.com/zijiechenrobotics/slam_in_autonomous_driving_docker) - the standard development environment for shenlan slam in autonomous driving course
-
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-
 ## C++
+
+*   [HKUST-Aerial-Robotics/VINS-Multi](https://github.com/HKUST-Aerial-Robotics/VINS-Multi) - A robust optimization-based asynchronous Multi-camera-IMU state estimator \[ICRA 2024, Workshop on Future of Construction, Best Research Award]
 
 *   [facontidavide/CPP\_Optimizations\_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary) - Tips and tricks to optimize your C++ code
 
@@ -1061,8 +915,6 @@
 *   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 
 *   [opencv/opencv\_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
-
-*   [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 
 *   [castacks/tartancalib](https://github.com/castacks/tartancalib) - TartanCalib: Iterative Wide-Angle Lens Calibration using Adaptive SubPixel Refinement of AprilTags
 
@@ -1486,9 +1338,155 @@
 
 *   [slightech/MYNT-EYE-D-SDK](https://github.com/slightech/MYNT-EYE-D-SDK) - MYNT EYE D SDK (MYNT® EYE Depth Camera)
 
-*   [gaowenliang/imu\_utils](https://github.com/gaowenliang/imu_utils) - A ROS package tool to analyze the IMU performance.
+## PostScript
 
-*   [IntelRealSense/librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
+*   [kf-liu/The-Art-of-Linear-Algebra-zh-CN](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone", 线性代数的艺术中文版, 欢迎PR.
+
+*   [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+
+## CMake
+
+*   [mint-lab/3dv\_tutorial](https://github.com/mint-lab/3dv_tutorial) - An Invitation to 3D Vision: A Tutorial for Everyone
+
+*   [XiaoJake/clion\_carto\_ws](https://github.com/XiaoJake/clion_carto_ws) - 用CLion+Cmake同时管理cartographer和cartographer\_ros，实现对carto的编译、debug单步调试
+
+*   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+
+*   [TurtleZhong/AVP-SLAM-SIM](https://github.com/TurtleZhong/AVP-SLAM-SIM) - A basic implementation(not official code) of AVP-SLAM(IROS 2020) in simulation. https://arxiv.org/abs/2007.01813
+
+*   [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
+
+*   [larics/cartographer\_superbuild](https://github.com/larics/cartographer_superbuild) -
+
+*   [peter-moran/jetson\_csi\_cam](https://github.com/peter-moran/jetson_csi_cam) - A ROS package making it simple to use CSI cameras on the Nvidia Jetson TK1, TX1, or TX2 with ROS.
+
+## TypeScript
+
+*   [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
+
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+*   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
+
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+
+*   [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
+
+*   [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [Wxh16144/backup-cli](https://github.com/Wxh16144/backup-cli) - 一键备份你的生产力工具配置
+
+*   [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
+
+*   [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
+
+*   [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
+
+*   [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -
+
+*   [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
+
+*   [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
+
+*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+
+*   [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
+
+*   [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
+
+*   [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
+
+*   [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
+
+*   [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+
+*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+
+*   [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
+
+*   [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+
+*   [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
+
+*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+
+## C\#
+
+*   [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
+
+*   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
+
+*   [konbakuyomu/md2visio-gui](https://github.com/konbakuyomu/md2visio-gui) -
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [zetaloop/PowerToys-CN](https://github.com/zetaloop/PowerToys-CN) - PowerToys Simplified Chinese Translation 微软增强工具箱 自制汉化
+
+*   [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
+
+*   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+
+*   [keijiro/Rsvfx](https://github.com/keijiro/Rsvfx) - An example that shows how to connect RealSense depth camera to Unity VFX Graph
+
+*   [stereolabs/zed-unity](https://github.com/stereolabs/zed-unity) - ZED SDK Unity plugin
+
+*   [dioram/Elektronik](https://github.com/dioram/Elektronik) - Инструмент для тестирования и отладки SLAM. Tools for testing and debugging SLAM.
+
+*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+## SWIG
+
+*   [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
+
+## Kotlin
+
+*   [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
+
+*   [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
+
+*   [TheBlob42/idea-which-key](https://github.com/TheBlob42/idea-which-key) - IdeaVim extension that displays available keybindings in a popup
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [hadix-lin/ideavim\_extension](https://github.com/hadix-lin/ideavim_extension) - IdeaVIM插件的扩展插件
+
+*   [dinbtechit/vscode-theme](https://github.com/dinbtechit/vscode-theme) - VSCode theme for all Jetbrains IDEs
+
+*   [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet
+
+*   [FirstTimeInForever/intellij-pdf-viewer](https://github.com/FirstTimeInForever/intellij-pdf-viewer) - Plugin for viewing PDF documents in IntelliJ-based IDEs.
+
+*   [Hannah-Sten/TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - LaTeX support for the IntelliJ platform by JetBrains.
+
+*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+
+*   [Nasller/CodeGlancePro](https://github.com/Nasller/CodeGlancePro) - Minimap run on jetbrains platform.
+
+*   [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
+
+## Jinja
+
+*   [ctu-mrs/mrs\_uav\_gazebo\_simulator](https://github.com/ctu-mrs/mrs_uav_gazebo_simulator) - Metapackage for the MRS UAV Gazebo simulation pipeline.
+
+## Dockerfile
+
+*   [FredTingaud/bench-runner](https://github.com/FredTingaud/bench-runner) - Docker runner for build-bench
+
+*   [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
+
+*   [zijiechenrobotics/slam\_in\_autonomous\_driving\_docker](https://github.com/zijiechenrobotics/slam_in_autonomous_driving_docker) - the standard development environment for shenlan slam in autonomous driving course
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
 ## CSS
 
@@ -1557,6 +1555,8 @@
 *   [polygon-software/python-visual-odometry](https://github.com/polygon-software/python-visual-odometry) - Python implementation of Visual Odometry algorithms from http://rpg.ifi.uzh.ch/
 
 *   [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
+
+*   [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 
 *   [Visualize-ML/Book3\_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) - Book\_3\_《数学要素》 |   鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！
 
@@ -1636,7 +1636,7 @@
 
 *   [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace
 
-*   [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+*   [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: Modular, customizable, and blazing fast Zsh framework
 
 *   [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 
