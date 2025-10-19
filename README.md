@@ -254,7 +254,7 @@
 
 *   [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
-*   [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+*   [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 
 *   [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!!
 
