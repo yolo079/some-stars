@@ -684,7 +684,7 @@
 
 *   [jiexiong2016/GCNv2\_SLAM](https://github.com/jiexiong2016/GCNv2_SLAM) - Real-time SLAM system with deep features
 
-*   [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+*   [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine.
 
 *   [electech6/cartographer\_detailed\_comments](https://github.com/electech6/cartographer_detailed_comments) -
 
@@ -1644,7 +1644,7 @@
 
 ## Rust
 
-*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
+*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
 *   [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 
