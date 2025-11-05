@@ -58,6 +58,8 @@
 
 ## Python
 
+*   [matsuren/dscamera](https://github.com/matsuren/dscamera) - Python library for Double Sphere Camera Model
+
 *   [HuajianUP/360Tracking](https://github.com/HuajianUP/360Tracking) - A visual tracker supporting 360 (omnidirectional) videos in equirectangular projection
 
 *   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -1285,8 +1287,6 @@
 *   [lifelong-robotic-vision/slambench2](https://github.com/lifelong-robotic-vision/slambench2) - SLAM performance evaluation framework
 
 *   [izhengfan/se2lam](https://github.com/izhengfan/se2lam) - (ICRA 2019) Visual-Odometric On-SE(2) Localization and Mapping
-
-*   [ayowin/WzSerialPort](https://github.com/ayowin/WzSerialPort) - Windows、Linux的C++串口库，原生API封装
 
 ## miscellaneous
 
