@@ -1038,7 +1038,7 @@
 
 *   [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 
-*   [PyJun/Mooc\_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，中国大学慕课，网易云课堂，有道精品课，有道领世，启航教育，腾讯课堂，腾讯会议，钉钉，飞书，B站课堂，中公网校，荔枝微课，海豚知道，伯索云，爱问云，百家云，希望学，希望学素养，希望优课，高顿，高途，途途，高途高中规划，高途素养，研途，学浪，抖音课堂，千聊，兴趣岛，橙啦，超星学习通，学银在线，智慧职教，职教云，知到智慧树，网易公开课，学堂在线，爱课程，华尔街学堂；支持视频课件同时下载
+*   [PyJun/Mooc\_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，中国大学慕课，网易云课堂，有道精品课，有道领世，启航教育，腾讯课堂，腾讯会议，钉钉，飞书，B站课堂，中公网校，荔枝微课，海豚知道，伯索云，爱问云，百家云，希望学，希望学素养，希望优课，高途，途途，高途高中规划，高途素养，研途，学浪，抖音课堂，千聊，兴趣岛，橙啦，超星学习通，学银在线，智慧职教，职教云，知到智慧树，网易公开课，学堂在线，爱课程，华尔街学堂；支持视频课件同时下载
 
 *   [noahcao/OC\_SORT](https://github.com/noahcao/OC_SORT) - \[CVPR2023] The official repo for OC-SORT: Observation-Centric SORT on video Multi-Object Tracking. OC-SORT is simple, online and robust to occlusion/non-linear motion.
 
@@ -1296,7 +1296,7 @@
 
 *   [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) - A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 
-*   [IntelRealSense/realsense-ros](https://github.com/IntelRealSense/realsense-ros) - ROS Wrapper for RealSense™ Cameras
+*   [realsenseai/realsense-ros](https://github.com/realsenseai/realsense-ros) - ROS Wrapper for RealSense™ Cameras
 
 *   [open-mmlab/mmcv](https://github.com/open-mmlab/mmcv) - OpenMMLab Computer Vision Foundation
 
