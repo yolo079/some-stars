@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Python](#python)
@@ -56,71 +56,11 @@
 *   [Ruby](#ruby)
 *   [Clojure](#clojure)
 
-## Jupyter Notebook
-
-*   [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
-
-*   [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
-
-*   [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
-
-*   [proroklab/DVM-SLAM](https://github.com/proroklab/DVM-SLAM) -
-
-*   [scape-research/SOSNet](https://github.com/scape-research/SOSNet) - Pretrained pytorch model for the SOSNet descriptor \[CVPR 2019]
-
-*   [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-
-*   [Linketic/CityGaussian](https://github.com/Linketic/CityGaussian) - \[ECCV`24&amp;ICLR`25] CityGaussian Series for High-quality Large-Scale Scene Reconstruction with Gaussians
-
-*   [quandy2020/LTSLAM](https://github.com/quandy2020/LTSLAM) - You can learn slam step by step，there are lot of tutorials
-
-*   [debOliveira/MoCapRasp](https://github.com/debOliveira/MoCapRasp) - \[IPAS22] Motion capture arena using only Raspberry Pi and open source libraries
-
-*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
-
-*   [SJTU-ViSYS/FeatureBooster](https://github.com/SJTU-ViSYS/FeatureBooster) - FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network (CVPR 2023)
-
-*   [lturing/ORB\_SLAM3\_modified](https://github.com/lturing/ORB_SLAM3_modified) - 安卓手机适配orb slam3，运行mono-inertial
-
-*   [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving) - Each chapter of this (mini-)book guides you in programming one important software component for automated driving.
-
-*   [ChawlaAvi/Daily-Dose-of-Data-Science](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) - A collection of code snippets from the publication Daily Dose of Data Science on Substack: http://www.dailydoseofds.com/
-
-*   [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowering seamless conversion of visual content into text-based representations. 80+ languages are supported.
-
-*   [polygon-software/python-visual-odometry](https://github.com/polygon-software/python-visual-odometry) - Python implementation of Visual Odometry algorithms from http://rpg.ifi.uzh.ch/
-
-*   [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
-
-*   [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
-
-*   [Visualize-ML/Book3\_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) - Book\_3\_《数学要素》 |   鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！
-
-*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
-
-*   [eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python) - 该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。
-
-*   [zju3dv/snake](https://github.com/zju3dv/snake) - Code for "Deep Snake for Real-Time Instance Segmentation" CVPR 2020 oral
-
-*   [enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects) - computer vision projects |  计算机视觉相关好玩的AI项目（Python、C++、embedded system）
-
-*   [MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) - Build your neural network easy and fast, 莫烦Python中文教学
-
-*   [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
-
-*   [eric-yyjau/pytorch-superpoint](https://github.com/eric-yyjau/pytorch-superpoint) - Superpoint Implemented in PyTorch: https://arxiv.org/abs/1712.07629
-
-*   [nianticlabs/monodepth2](https://github.com/nianticlabs/monodepth2) - \[ICCV 2019] Monocular depth estimation from a single image
-
-*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
-
-*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-
-*   [ksakmann/Particle-Filter](https://github.com/ksakmann/Particle-Filter) - A particle filter to localize a car using LIDAR data
-
-*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
-
 ## C++
+
+*   [superxslam/SuperOdom](https://github.com/superxslam/SuperOdom) - A highly robust and accurate LiDAR-only,  LiDAR-inertial odometry
+
+*   [gaoxiang12/lightning-lm](https://github.com/gaoxiang12/lightning-lm) - Lidar Localization and Mapping
 
 *   [robinrowe/multiprocessing](https://github.com/robinrowe/multiprocessing) - C++ code for RingQueue, SharedMemory and Semaphore
 
@@ -286,7 +226,7 @@
 
 *   [rmsalinas/fbow](https://github.com/rmsalinas/fbow) - FBOW (Fast Bag of Words) is an extremmely optimized version of the DBow2/DBow3 libraries.
 
-*   [changh95/fastcampus\_slam\_codes](https://github.com/changh95/fastcampus_slam_codes) - Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series
+*   [changh95/slam\_lecture\_codes](https://github.com/changh95/slam_lecture_codes) - Code exercises for the SLAM courses
 
 *   [changh95/super-mono-vo](https://github.com/changh95/super-mono-vo) - Avisingh599's mono-vo with SuperPoint/Superglue
 
@@ -854,7 +794,69 @@
 
 *   [MegviiRobot/CamOdomCalibraTool](https://github.com/MegviiRobot/CamOdomCalibraTool) - The tool to calibrate extrinsic param between camera and wheel
 
-*   [jingpang/LearnVIORB](https://github.com/jingpang/LearnVIORB) -
+## Jupyter Notebook
+
+*   [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+
+*   [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
+
+*   [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
+
+*   [proroklab/DVM-SLAM](https://github.com/proroklab/DVM-SLAM) -
+
+*   [scape-research/SOSNet](https://github.com/scape-research/SOSNet) - Pretrained pytorch model for the SOSNet descriptor \[CVPR 2019]
+
+*   [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+
+*   [Linketic/CityGaussian](https://github.com/Linketic/CityGaussian) - \[ECCV`24&amp;ICLR`25] CityGaussian Series for High-quality Large-Scale Scene Reconstruction with Gaussians
+
+*   [quandy2020/LTSLAM](https://github.com/quandy2020/LTSLAM) - You can learn slam step by step，there are lot of tutorials
+
+*   [debOliveira/MoCapRasp](https://github.com/debOliveira/MoCapRasp) - \[IPAS22] Motion capture arena using only Raspberry Pi and open source libraries
+
+*   [verlab/accelerated\_features](https://github.com/verlab/accelerated_features) - Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!
+
+*   [SJTU-ViSYS/FeatureBooster](https://github.com/SJTU-ViSYS/FeatureBooster) - FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network (CVPR 2023)
+
+*   [lturing/ORB\_SLAM3\_modified](https://github.com/lturing/ORB_SLAM3_modified) - 安卓手机适配orb slam3，运行mono-inertial
+
+*   [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving) - Each chapter of this (mini-)book guides you in programming one important software component for automated driving.
+
+*   [ChawlaAvi/Daily-Dose-of-Data-Science](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) - A collection of code snippets from the publication Daily Dose of Data Science on Substack: http://www.dailydoseofds.com/
+
+*   [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowering seamless conversion of visual content into text-based representations. 80+ languages are supported.
+
+*   [polygon-software/python-visual-odometry](https://github.com/polygon-software/python-visual-odometry) - Python implementation of Visual Odometry algorithms from http://rpg.ifi.uzh.ch/
+
+*   [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
+
+*   [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
+
+*   [Visualize-ML/Book3\_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics) - Book\_3\_《数学要素》 |   鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！
+
+*   [Visualize-ML/Book4\_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book\_4\_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
+
+*   [eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python) - 该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。
+
+*   [zju3dv/snake](https://github.com/zju3dv/snake) - Code for "Deep Snake for Real-Time Instance Segmentation" CVPR 2020 oral
+
+*   [enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects) - computer vision projects |  计算机视觉相关好玩的AI项目（Python、C++、embedded system）
+
+*   [MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) - Build your neural network easy and fast, 莫烦Python中文教学
+
+*   [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
+
+*   [eric-yyjau/pytorch-superpoint](https://github.com/eric-yyjau/pytorch-superpoint) - Superpoint Implemented in PyTorch: https://arxiv.org/abs/1712.07629
+
+*   [nianticlabs/monodepth2](https://github.com/nianticlabs/monodepth2) - \[ICCV 2019] Monocular depth estimation from a single image
+
+*   [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
+
+*   [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+
+*   [ksakmann/Particle-Filter](https://github.com/ksakmann/Particle-Filter) - A particle filter to localize a car using LIDAR data
+
+*   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
 
 ## miscellaneous
 
@@ -1429,8 +1431,6 @@
 *   [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 
 *   [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
-
-*   [huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes) - 我的自学笔记，终身更新
 
 ## C
 
