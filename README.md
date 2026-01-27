@@ -32,12 +32,12 @@
 *   [TeX](#tex)
 *   [Zig](#zig)
 *   [Vue](#vue)
-*   [Cuda](#cuda)
 *   [Vala](#vala)
 *   [Lua](#lua)
 *   [Vim Script](#vim-script)
 *   [MATLAB](#matlab)
 *   [Visual Basic .NET](#visual-basic-net)
+*   [Cuda](#cuda)
 *   [Swift](#swift)
 *   [HTML](#html)
 *   [Makefile](#makefile)
@@ -59,6 +59,8 @@
 *   [Clojure](#clojure)
 
 ## C++
+
+*   [HITCSC/T-ESKF](https://github.com/HITCSC/T-ESKF) - T-ESKF: Transformed Error-State Kalman Filter for Consistent Visual-Inertial Navigation
 
 *   [yuancaimaiyi/Mapping-base-lidar-pose-or-vslam-pose](https://github.com/yuancaimaiyi/Mapping-base-lidar-pose-or-vslam-pose) - I modified the colmap,when  it reconstructs from known pose ,only let it optimize rotation ,fixing position!
 
@@ -1002,7 +1004,7 @@
 
 *   [utiasSTARS/FaVoR](https://github.com/utiasSTARS/FaVoR) - A globally sparse but locally dense 3D feature renderer for camera relocalization.
 
-*   [jessebloecker/vinlab](https://github.com/jessebloecker/vinlab) - Tools for generating, evaluating, and visualizing 3D motion.
+*   [rarejesse/vinlab](https://github.com/rarejesse/vinlab) - Tools for generating, evaluating, and visualizing 3D motion.
 
 *   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
@@ -1027,6 +1029,8 @@
 *   [tberriel/OVO](https://github.com/tberriel/OVO) - Official repository of "Open-Vocabulary Online Semantic Mapping for SLAM"
 
 *   [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - \[NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling
+
+*   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 
 *   [nianticlabs/doubletake](https://github.com/nianticlabs/doubletake) - \[ECCV 2024] DoubleTake: Geometry Guided Depth Estimation
 
@@ -1830,6 +1834,8 @@
 
 *   [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 
+*   [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
+
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
 *   [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
@@ -1900,20 +1906,6 @@
 
 *   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 
-## Cuda
-
-*   [nerfstudio-project/gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
-
-*   [facebookresearch/DABA](https://github.com/facebookresearch/DABA) - Official implementation of "Decentralization and Acceleration Enables Large-Scale Bundle Adjustment"
-
-*   [GhiXu/ACMM](https://github.com/GhiXu/ACMM) - Multi-Scale Geometric Consistency Guided Multi-View Stereo
-
-*   [GhiXu/ACMP](https://github.com/GhiXu/ACMP) - Planar Prior Assisted PatchMatch Multi-View Stereo
-
-*   [GhiXu/ACMH](https://github.com/GhiXu/ACMH) - A simple yet effective PatchMatch MVS method, which is the base model of ACMM and ACMP.
-
-*   [PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming) - Learn CUDA Programming, published by Packt
-
 ## Vala
 
 *   [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
@@ -1980,8 +1972,6 @@
 
 *   [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 
-*   [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
-
 *   [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 
 *   [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - Set of operators and textobjects to search/select/edit sandwiched texts.
@@ -2022,11 +2012,21 @@
 
 *   [rpng/kalibr\_allan](https://github.com/rpng/kalibr_allan) - IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters.
 
-*   [PetWorm/sim3\_evaluate\_tool](https://github.com/PetWorm/sim3_evaluate_tool) - A matlab tool to evaluate trajectory RMSE using sim3 alignment.
-
 ## Visual Basic .NET
 
 *   [PeterStrick/ViVeTool-GUI](https://github.com/PeterStrick/ViVeTool-GUI) - Windows Feature Control GUI based on ViVe / ViVeTool
+
+## Cuda
+
+*   [facebookresearch/DABA](https://github.com/facebookresearch/DABA) - Official implementation of "Decentralization and Acceleration Enables Large-Scale Bundle Adjustment"
+
+*   [GhiXu/ACMM](https://github.com/GhiXu/ACMM) - Multi-Scale Geometric Consistency Guided Multi-View Stereo
+
+*   [GhiXu/ACMP](https://github.com/GhiXu/ACMP) - Planar Prior Assisted PatchMatch Multi-View Stereo
+
+*   [GhiXu/ACMH](https://github.com/GhiXu/ACMH) - A simple yet effective PatchMatch MVS method, which is the base model of ACMM and ACMP.
+
+*   [PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming) - Learn CUDA Programming, published by Packt
 
 ## Swift
 
