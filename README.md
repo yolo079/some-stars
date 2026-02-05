@@ -630,7 +630,7 @@
 
 *   [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 
-*   [ouster-lidar/ouster-sdk](https://github.com/ouster-lidar/ouster-sdk) - Ouster, Inc. sample code
+*   [ouster-lidar/ouster-sdk](https://github.com/ouster-lidar/ouster-sdk) - Cross-platform C++ and Python SDK for Ouster LiDAR sensors. Includes tools for visualization, data recording/replay, and sensor configuration
 
 *   [versatran01/llol](https://github.com/versatran01/llol) - LLOL: Low-Latency Odometry for Spinning Lidars
 
