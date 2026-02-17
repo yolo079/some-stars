@@ -200,7 +200,7 @@
 
 *   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 
-*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - 🚀 AirVO upgrades to AirSLAM \[TRO]🚀
+*   [sair-lab/AirSLAM](https://github.com/sair-lab/AirSLAM) - \[TRO 2025] AirVO upgrades to AirSLAM
 
 *   [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) - FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry
 
@@ -2122,7 +2122,7 @@
 
 ## Nunjucks
 
-*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## Haskell
 
