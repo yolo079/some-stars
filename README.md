@@ -946,7 +946,7 @@
 
 *   [mprib/multiwebcam](https://github.com/mprib/multiwebcam) - concurrent frame capture with USB webcams
 
-*   [mprib/caliscope](https://github.com/mprib/caliscope) - Multicamera Calibration for Research Workflows
+*   [mprib/caliscope](https://github.com/mprib/caliscope) - Multicamera Calibration for Motion Capture Workflows
 
 *   [microsoft/SceneLandmarkLocalization](https://github.com/microsoft/SceneLandmarkLocalization) - Source code and data for papers "Improved Scene Landmark Detection for Camera Localization" (3DV 2024) and "Learning to Detect Scene Landmarks for Camera Localization" (CVPR 2024).
 
@@ -1328,7 +1328,7 @@
 
 *   [GeekLiB/Lee-SLAM-source](https://github.com/GeekLiB/Lee-SLAM-source) - SLAM 开发学习资源与经验分享
 
-*   [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2023
+*   [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap) - Roadmap to become a Visual-SLAM developer in 2026
 
 *   [OSUPCVLab/mobile-ar-sensor-logger](https://github.com/OSUPCVLab/mobile-ar-sensor-logger) - Camera and inertial measurement unit (IMU) data logger for Android and iOS
 
