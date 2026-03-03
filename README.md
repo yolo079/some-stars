@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [Objective-C](#objective-c)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [Python](#python)
@@ -43,7 +44,6 @@
 *   [Makefile](#makefile)
 *   [OpenEdge ABL](#openedge-abl)
 *   [F#](#f)
-*   [Objective-C](#objective-c)
 *   [Assembly](#assembly)
 *   [Fennel](#fennel)
 *   [Tree-sitter Query](#tree-sitter-query)
@@ -56,7 +56,16 @@
 *   [Markdown](#markdown)
 *   [PHP](#php)
 *   [Ruby](#ruby)
-*   [Clojure](#clojure)
+
+## Objective-C
+
+*   [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
+
+*   [xcodebuild/fcitx-remote-for-osx](https://github.com/xcodebuild/fcitx-remote-for-osx) - A simulate fcitx-remote to handle osx input method in command line
+
+*   [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
+
+*   [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 
 ## TypeScript
 
@@ -1078,7 +1087,7 @@
 
 *   [zhm-real/MotionPlanning](https://github.com/zhm-real/MotionPlanning) - Motion planning algorithms commonly used on autonomous vehicles. (path planning + path tracking)
 
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 
 *   [sihengt/tartancalib-eval](https://github.com/sihengt/tartancalib-eval) - TartanCalib Evaluation
 
@@ -1372,7 +1381,7 @@
 
 *   [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 
-*   [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+*   [zhongyi-tong/git-recipes](https://github.com/zhongyi-tong/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 
 *   [extreme-assistant/CVPR2024-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpretation) - cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
 
@@ -2088,14 +2097,6 @@
 
 *   [LoopPerfect/buckaroo](https://github.com/LoopPerfect/buckaroo) - The decentralized package manager for C++ and friends 🏝️
 
-## Objective-C
-
-*   [xcodebuild/fcitx-remote-for-osx](https://github.com/xcodebuild/fcitx-remote-for-osx) - A simulate fcitx-remote to handle osx input method in command line
-
-*   [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
-
-*   [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
-
 ## Assembly
 
 *   [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
@@ -2151,7 +2152,3 @@
 *   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 
 *   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-
-## Clojure
-
-*   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
