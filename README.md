@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-*   [Objective-C](#objective-c)
 *   [TypeScript](#typescript)
+*   [Objective-C](#objective-c)
 *   [C++](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -57,17 +57,9 @@
 *   [PHP](#php)
 *   [Ruby](#ruby)
 
-## Objective-C
-
-*   [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
-
-*   [xcodebuild/fcitx-remote-for-osx](https://github.com/xcodebuild/fcitx-remote-for-osx) - A simulate fcitx-remote to handle osx input method in command line
-
-*   [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
-
-*   [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
-
 ## TypeScript
+
+*   [ailyProject/aily-blockly](https://github.com/ailyProject/aily-blockly) - AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...
 
 *   [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
 
@@ -81,7 +73,7 @@
 
 *   [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 
 *   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 
@@ -136,6 +128,16 @@
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 *   [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+
+## Objective-C
+
+*   [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
+
+*   [xcodebuild/fcitx-remote-for-osx](https://github.com/xcodebuild/fcitx-remote-for-osx) - A simulate fcitx-remote to handle osx input method in command line
+
+*   [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds "modifier key + mouse drag" move and resize to OSX
+
+*   [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 
 ## C++
 
@@ -1998,8 +2000,6 @@
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 *   [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
-
-*   [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 
 ## MATLAB
 
