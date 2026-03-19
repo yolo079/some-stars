@@ -170,7 +170,7 @@
 
 *   [growinguptogether/EigenDocInChinese](https://github.com/growinguptogether/EigenDocInChinese) - Eigen3.3.7 Doc中文版
 
-*   [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
 *   [Kapeli/feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
 
