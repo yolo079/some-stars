@@ -454,7 +454,7 @@
 
 ## miscellaneous
 
-*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
 *   [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) - Official implementation of "AirSim360: A Panoramic Simulation Platform within Drone View"
 
@@ -1738,7 +1738,7 @@
 
 *   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 
 *   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
