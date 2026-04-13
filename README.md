@@ -66,6 +66,8 @@
 
 *   [Insta360-Research-Team/Fly360](https://github.com/Insta360-Research-Team/Fly360) - Official code for "Fly360: Omnidirectional Obstacle Avoidance within Drone View"
 
+*   [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) - Official implementation of "AirSim360: A Panoramic Simulation Platform within Drone View"
+
 *   [juliye2025/evil-read-arxiv](https://github.com/juliye2025/evil-read-arxiv) - Claude Code+Obsidian，邪修读论文就是快
 
 *   [Avinash793/panoramic-image-stitching](https://github.com/Avinash793/panoramic-image-stitching) - Create panorama image using invariant features from given set of overlapping images.
@@ -455,8 +457,6 @@
 ## miscellaneous
 
 *   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-
-*   [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) - Official implementation of "AirSim360: A Panoramic Simulation Platform within Drone View"
 
 *   [clashbk/clash](https://github.com/clashbk/clash) - Clash官网各版本Clash下载地址及备份下载地址
 
