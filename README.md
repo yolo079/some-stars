@@ -1860,7 +1860,7 @@
 
 *   [AprilRobotics/apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
 
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 *   [waveshareteam/WM8960-Audio-HAT](https://github.com/waveshareteam/WM8960-Audio-HAT) - The drivers of \[WM8960 Audio HAT] for Raspberry Pi
 
