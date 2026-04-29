@@ -60,6 +60,8 @@
 
 ## C++
 
+*   [orbbec/OrbbecSDK\_ROS2](https://github.com/orbbec/OrbbecSDK_ROS2) - OrbbecSDK ROS2 wrapper
+
 *   [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 
 *   [APRIL-ZJU/Ctrl-VIO](https://github.com/APRIL-ZJU/Ctrl-VIO) - \[RA-L 2022] Ctrl-VIO: Continuous-Time Visual-Inertial Odometry for Rolling Shutter Cameras
@@ -847,8 +849,6 @@
 *   [rmsalinas/DBow3](https://github.com/rmsalinas/DBow3) - Improved version of DBow2
 
 *   [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
-
-*   [iwander-all/vins-mono-self-improved-](https://github.com/iwander-all/vins-mono-self-improved-) - an improved version of vins-mono
 
 ## miscellaneous
 
@@ -1844,7 +1844,7 @@
 
 *   [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 
-*   [DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) - The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A\&M University.
+*   [DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) - The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A\&M University. No AI generated code
 
 *   [gjasny/v4l-utils](https://github.com/gjasny/v4l-utils) -
 
