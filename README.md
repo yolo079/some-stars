@@ -49,7 +49,6 @@
 *   [Tree-sitter Query](#tree-sitter-query)
 *   [Vim script](#vim-script-1)
 *   [ASL](#asl)
-*   [Nunjucks](#nunjucks)
 *   [Haskell](#haskell)
 *   [SCSS](#scss)
 *   [Awk](#awk)
@@ -1644,6 +1643,8 @@
 
 *   [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 
+*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
+
 *   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 
 *   [siyuan-note/oceanpress\_old](https://github.com/siyuan-note/oceanpress_old) - 将 Markdown 文件转换为 HTML 生成静态站点的工具，专为思源笔记实现了许多特有渲染效果。
@@ -2319,10 +2320,6 @@
 *   [1orz/y7000p-2020H-macOS-EFI](https://github.com/1orz/y7000p-2020H-macOS-EFI) - 联想拯救者 Legion y7000p-2020H macOS OpenCore EFI 整合引导文件
 
 *   [gclm/Hackintosh-LEGION-Y7000P-I7-9750H](https://github.com/gclm/Hackintosh-LEGION-Y7000P-I7-9750H) - 联想拯救者Y7000P I7-9750H 准完美级 EFI
-
-## Nunjucks
-
-*   [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## Haskell
 
