@@ -1083,8 +1083,6 @@
 
 *   [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) - Official implementation of "AirSim360: A Panoramic Simulation Platform within Drone View"
 
-*   [juliye2025/evil-read-arxiv](https://github.com/juliye2025/evil-read-arxiv) - Claude Code+Obsidian，邪修读论文就是快
-
 *   [Avinash793/panoramic-image-stitching](https://github.com/Avinash793/panoramic-image-stitching) - Create panorama image using invariant features from given set of overlapping images.
 
 *   [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -1315,7 +1313,7 @@
 
 *   [zhm-real/MotionPlanning](https://github.com/zhm-real/MotionPlanning) - Motion planning algorithms commonly used on autonomous vehicles. (path planning + path tracking)
 
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 
 *   [sihengt/tartancalib-eval](https://github.com/sihengt/tartancalib-eval) - TartanCalib Evaluation
 
@@ -1536,6 +1534,8 @@
 *   [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint) - Efficient neural feature detector and descriptor
 
 ## TypeScript
+
+*   [juliye2025/evil-read-arxiv](https://github.com/juliye2025/evil-read-arxiv) - Claude Code+Obsidian，邪修读论文就是快
 
 *   [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension. / Google Gemini & AI Studio 全能增强插件：集成时间轴导航、文件夹管理、提示词库及聊天导出等众多功能。
 
