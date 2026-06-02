@@ -34,9 +34,7 @@ jobs:
       - name: some generator
         uses: simonecorsi/mawesome@v2
         with:
-          username: yolo079
-          api-token: ${{ secrets.PERSONAL_TOKEN }}
+          api-token: ${{ secrets.PAT_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
-          github-username: ${{ github.repository_owner }}
           template-path: "template/README.ejs"
           github-name: ${{ github.repository_owner }}
