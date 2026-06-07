@@ -350,7 +350,7 @@
 
 *   [Insta360-Research-Team/Fly360](https://github.com/Insta360-Research-Team/Fly360) - Official code for "Fly360: Omnidirectional Obstacle Avoidance within Drone View"
 
-*   [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) - Official implementation of "AirSim360: A Panoramic Simulation Platform within Drone View"
+*   [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) - Official implementation of CVPR2026 paper "AirSim360: A Panoramic Simulation Platform within Drone View"
 
 *   [Avinash793/panoramic-image-stitching](https://github.com/Avinash793/panoramic-image-stitching) - Create panorama image using invariant features from given set of overlapping images.
 
@@ -1632,7 +1632,7 @@
 
 *   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
-*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 
 *   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 
