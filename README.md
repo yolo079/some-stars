@@ -8,6 +8,7 @@
 
 ## Table of Contents
 
+*   [TeX](#tex)
 *   [Groovy](#groovy)
 *   [Java](#java)
 *   [Vala](#vala)
@@ -33,7 +34,6 @@
 *   [CSS](#css)
 *   [Shell](#shell)
 *   [Roff](#roff)
-*   [TeX](#tex)
 *   [Zig](#zig)
 *   [Vue](#vue)
 *   [Lua](#lua)
@@ -57,6 +57,14 @@
 *   [PHP](#php)
 *   [Ruby](#ruby)
 *   [Clojure](#clojure)
+
+## TeX
+
+*   [xiaofan4122/Elevator\_LIO\_Page](https://github.com/xiaofan4122/Elevator_LIO_Page) - Elevator-LIO public Page
+
+*   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
+
+*   [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold) - LaTeX sources of the technical report "A tutorial on SE(3) transformation parameterizations and on-manifold optimization"
 
 ## Groovy
 
@@ -323,8 +331,6 @@
 *   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 *   [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
-
-*   [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 
 ## Python
 
@@ -1632,7 +1638,7 @@
 
 *   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
-*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 
 *   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 
@@ -2117,12 +2123,6 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
-## TeX
-
-*   [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
-
-*   [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold) - LaTeX sources of the technical report "A tutorial on SE(3) transformation parameterizations and on-manifold optimization"
 
 ## Zig
 
