@@ -676,7 +676,7 @@
 
 *   [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 
-*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+*   [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch > ONNX > CoreML > TFLite
 
 *   [magicleap/SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork) - PyTorch pre-trained model for real-time interest point detection, description, and sparse tracking (https://arxiv.org/abs/1712.07629)
 
@@ -2272,7 +2272,7 @@
 
 *   [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
-*   [ila/TUM](https://github.com/ila/TUM) - Notes, material and various stuff collected while attended TUM Master's Degree
+*   [ila/TUM](https://github.com/ila/TUM) - Notes, material and various stuff collected while attending TUM Master's Degree
 
 *   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
