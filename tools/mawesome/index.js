@@ -57,16 +57,28 @@ async function main() {
   }
 
   // Prepare data for template
+  // Map repos to fields expected by template
+  const repos = stars.map(r => ({
+    full_name: r.full_name,
+    html_url: r.html_url,
+    description: r.description,
+    language: r.language,
+    stargazers_count: r.stargazers_count,
+    owner: r.owner && r.owner.login
+  }));
+
+  // Group by language
+  const grouped = repos.reduce((acc, repo) => {
+    const lang = repo.language || 'Other';
+    if (!acc[lang]) acc[lang] = [];
+    acc[lang].push(repo);
+    return acc;
+  }, {});
+
+  // Convert to Object.entries for template iteration: for (let [language, repositories] of stars)
   const data = {
     githubName,
-    stars: stars.map(r => ({
-      name: r.full_name,
-      url: r.html_url,
-      description: r.description,
-      language: r.language,
-      stargazers_count: r.stargazers_count,
-      owner: r.owner && r.owner.login
-    }))
+    stars: Object.entries(grouped)
   };
 
   // Render (use renderFile so EJS can resolve includes; enable async rendering and await it)
