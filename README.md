@@ -9,6 +9,108 @@
 ## Table of Contents
 
 
+* [C++](#c--)
+
+* [Rust](#rust)
+
+* [Python](#python)
+
+* [Other](#other)
+
+* [Shell](#shell)
+
+* [TypeScript](#typescript)
+
+* [TeX](#tex)
+
+* [Groovy](#groovy)
+
+* [Java](#java)
+
+* [Vala](#vala)
+
+* [Swift](#swift)
+
+* [Jupyter Notebook](#jupyter-notebook)
+
+* [JavaScript](#javascript)
+
+* [Objective-C](#objective-c)
+
+* [Scala](#scala)
+
+* [C](#c)
+
+* [PostScript](#postscript)
+
+* [CMake](#cmake)
+
+* [Go](#go)
+
+* [C#](#c-)
+
+* [SWIG](#swig)
+
+* [Kotlin](#kotlin)
+
+* [Jinja](#jinja)
+
+* [Dockerfile](#dockerfile)
+
+* [CSS](#css)
+
+* [Roff](#roff)
+
+* [Zig](#zig)
+
+* [Vue](#vue)
+
+* [Lua](#lua)
+
+* [Vim Script](#vim-script)
+
+* [MATLAB](#matlab)
+
+* [Visual Basic .NET](#visual-basic--net)
+
+* [Cuda](#cuda)
+
+* [HTML](#html)
+
+* [Astro](#astro)
+
+* [Makefile](#makefile)
+
+* [Gnuplot](#gnuplot)
+
+* [F#](#f-)
+
+* [Assembly](#assembly)
+
+* [Fennel](#fennel)
+
+* [Tree-sitter Query](#tree-sitter-query)
+
+* [Vim script](#vim-script)
+
+* [ASL](#asl)
+
+* [Haskell](#haskell)
+
+* [SCSS](#scss)
+
+* [Awk](#awk)
+
+* [Markdown](#markdown)
+
+* [PHP](#php)
+
+* [Ruby](#ruby)
+
+* [Clojure](#clojure)
+
+
+
 ## C++
   
 - [elon876/Omni-LIVO](https://github.com/elon876/Omni-LIVO) - This repository contains the official implementation of Omni-LIVO, a tightly-coupled multi-camera LiDAR-Inertial-Visual Odometry system that extends FAST-LIVO2 with multi-view photometric constraints for enhanced robustness and accuracy.
