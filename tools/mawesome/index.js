@@ -1,3 +1,4 @@
+// tools/mawesome/index.js
 const fs = require('fs');
 const path = require('path');
 const ejs = require('ejs');
@@ -17,7 +18,7 @@ async function main() {
 
   const octokit = token ? new Octokit({ auth: token }) : new Octokit();
 
-  // Example: fetch starred repos of the given user
+  // Fetch starred repos of the given user (example)
   let stars = [];
   try {
     const per_page = 100;
@@ -34,17 +35,26 @@ async function main() {
       page++;
     }
   } catch (err) {
-    console.error('Error fetching starred repos:', (err && err.message) || err);
+    console.error('Error fetching starred repos:', err && err.message ? err.message : err);
+    // If octokit returns structured error, include status / response data
+    if (err.status) console.error('Status:', err.status);
+    if (err.response && err.response.data) {
+      try {
+        console.error('Response data:', JSON.stringify(err.response.data));
+      } catch (e) {
+        console.error('Response data (raw):', err.response.data);
+      }
+    }
     process.exit(3);
   }
 
-  // Load template
+  // Resolve template path and ensure it exists
   const tplFullPath = path.resolve(templatePath);
+  console.log('Using template:', tplFullPath);
   if (!fs.existsSync(tplFullPath)) {
     console.error('Template not found at', tplFullPath);
     process.exit(4);
   }
-  const tpl = fs.readFileSync(tplFullPath, 'utf8');
 
   // Prepare data for template
   const data = {
@@ -59,20 +69,29 @@ async function main() {
     }))
   };
 
-  // Render
+  // Render (use renderFile so EJS can resolve includes; enable async rendering and await it)
   let out;
   try {
-    out = ejs.render(tpl, data, { async: false });
+    out = await ejs.renderFile(tplFullPath, data, { async: true, filename: tplFullPath });
   } catch (err) {
-    console.error('Error rendering template:', err);
+    console.error('Error rendering template:', err && err.message ? err.message : err);
+    if (err && err.stack) console.error(err.stack);
+    // If EJS error has filename/line info, log it
+    if (err && err.filename) console.error('EJS filename:', err.filename);
     process.exit(5);
   }
 
-  fs.writeFileSync(outPath, out, 'utf8');
-  console.log('Wrote', outPath);
+  try {
+    fs.writeFileSync(outPath, out, 'utf8');
+    console.log('Wrote', outPath);
+  } catch (err) {
+    console.error('Failed to write output file:', err && err.message ? err.message : err);
+    process.exit(6);
+  }
 }
 
 main().catch(err => {
-  console.error(err);
+  console.error('Unhandled error:', err && err.message ? err.message : err);
+  if (err && err.stack) console.error(err.stack);
   process.exit(1);
 });
