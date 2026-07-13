@@ -379,7 +379,7 @@
   
 - [ovysotska/image_sequence_localizer](https://github.com/ovysotska/image_sequence_localizer) - The framework for visual place recognition in outdoor environments using image sequences.
   
-- [OpenImageDebugger/OpenImageDebugger](https://github.com/OpenImageDebugger/OpenImageDebugger) - An advanced in-memory image visualization plugin for GDB and LLDB on Linux, with experimental support for MacOS and Windows. Previously known as gdb-imagewatch.
+- [OpenImageDebugger/OpenImageDebugger](https://github.com/OpenImageDebugger/OpenImageDebugger) - An advanced in-memory image visualization plugin for GDB and LLDB on Linux, with experimental support for MacOS and Windows. Previously known as gdb-imagewatch. Also available as an extension for VSCode and forks
   
 - [teshanshanuka/ROS_crosscompile](https://github.com/teshanshanuka/ROS_crosscompile) - ROS melodic cross compile for arm64/aarch64 architecture
   
