@@ -2181,7 +2181,7 @@
   
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
   
-- [DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) - The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&amp;M University. No AI generated code
+- [DrTimothyAldenDavis/SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) - The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&amp;M University.
   
 - [gjasny/v4l-utils](https://github.com/gjasny/v4l-utils) - 
   
