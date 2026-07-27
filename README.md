@@ -1283,8 +1283,6 @@
   
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI&#39;s Codex AI in the command line.
   
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-  
 - [Hilti-Research/hilti-trimble-slam-challenge-2026](https://github.com/Hilti-Research/hilti-trimble-slam-challenge-2026) - 360 Visual-Inertial Benchmark with Floor Plan Priors for SLAM and Localization
   
 - [Chuny1/3DGPT](https://github.com/Chuny1/3DGPT) - 
@@ -1936,6 +1934,8 @@
   
 
 ## TypeScript
+  
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
   
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
   
