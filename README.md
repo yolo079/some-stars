@@ -113,6 +113,16 @@
 
 ## C++
   
+- [v4rl-ucy/ellipselio](https://github.com/v4rl-ucy/ellipselio) - EllipseLIO is an Adaptive LiDAR Inertial Odometry Approach with an Ellipsoid Representation
+  
+- [Liansheng-Wang/Super-LIO](https://github.com/Liansheng-Wang/Super-LIO) - 【RA-L 2026】 A Robust and Efficient LiDAR-Inertial Odometry System with a Compact Mapping Strategy.
+  
+- [nobleo/rviz_satellite](https://github.com/nobleo/rviz_satellite) - Display internet satellite imagery in RViz
+  
+- [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM) - A computationally efficient and convenient toolkit of iterated Kalman filter.
+  
+- [Joanna-HE/LIGO.](https://github.com/Joanna-HE/LIGO.) - 
+  
 - [sjtuyinjie/Ground-Fusion2](https://github.com/sjtuyinjie/Ground-Fusion2) - Ground-Fusion++: a modular sensor-fusion SLAM system(IROS2025)
   
 - [elon876/Omni-LIVO](https://github.com/elon876/Omni-LIVO) - This repository contains the official implementation of Omni-LIVO, a tightly-coupled multi-camera LiDAR-Inertial-Visual Odometry system that extends FAST-LIVO2 with multi-view photometric constraints for enhanced robustness and accuracy.
@@ -935,6 +945,8 @@
   
 
 ## Other
+  
+- [sjtuyinjie/SJTU_GVI](https://github.com/sjtuyinjie/SJTU_GVI) - A GNSS-Visual-IMU Dataset for SLAM
   
 - [Peize-Liu/CO-Calib-IO](https://github.com/Peize-Liu/CO-Calib-IO) - pages of CO-Calib
   
@@ -2268,7 +2280,7 @@
   
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
   
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
   
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
   
