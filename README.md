@@ -9,6 +9,8 @@
 ## Table of Contents
 
 
+* [Shell](#shell)
+
 * [C++](#c--)
 
 * [Other](#other)
@@ -18,8 +20,6 @@
 * [Rust](#rust)
 
 * [Python](#python)
-
-* [Shell](#shell)
 
 * [JavaScript](#javascript)
 
@@ -111,7 +111,84 @@
 
 
 
+## Shell
+  
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works.
+  
+- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
+  
+- [sjtuyinjie/Ultra-Fusion](https://github.com/sjtuyinjie/Ultra-Fusion) - Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation
+  
+- [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
+  
+- [Menghuan1918/uvv](https://github.com/Menghuan1918/uvv) - Easier use of package manager uv in the form of conda.               以conda的形式更轻松的使用包管理器uv。
+  
+- [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
+  
+- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
+  
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+  
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+  
+- [lomorage/lomo-docker](https://github.com/lomorage/lomo-docker) - Lomorage Raspberry Pi docker image
+  
+- [prontera/ideavimrc](https://github.com/prontera/ideavimrc) - IntelliJ IDEA的VIM键位配置，快速配置USTC源
+  
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+  
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+  
+- [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
+  
+- [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms. 
+  
+- [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+  
+- [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
+  
+- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+  
+- [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
+  
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic &amp; beautiful looking powerline segments, written purely in bash.
+  
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+  
+- [himanshub16/ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
+  
+- [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
+  
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+  
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+  
+- [jetsonhacks/bootFromExternalStorage](https://github.com/jetsonhacks/bootFromExternalStorage) - Shell scripts to setup a NVIDIA Jetson AGX Xavier, Xavier NX, AGX Orin, or Orin Nano Developer Kit to boot from external storage.
+  
+- [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
+  
+- [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
+  
+- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+  
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
+  
+- [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+  
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+  
+- [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
+  
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+  
+
 ## C++
+  
+- [HKUST-Aerial-Robotics/HKUST-ELEC5660-Introduction-to-Aerial-Robotics](https://github.com/HKUST-Aerial-Robotics/HKUST-ELEC5660-Introduction-to-Aerial-Robotics) - Repo for HKUST ELEC5660 Course Notes &amp; Lab Tutorial &amp; Project Docker
+  
+- [RobustFieldAutonomyLab/DiSCo-SLAM](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM) - 
+  
+- [HKUST-Aerial-Robotics/GS-LIVO](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) - 
   
 - [v4rl-ucy/ellipselio](https://github.com/v4rl-ucy/ellipselio) - EllipseLIO is an Adaptive LiDAR Inertial Odometry Approach with an Ellipsoid Representation
   
@@ -1295,6 +1372,8 @@
   
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI&#39;s Codex AI in the command line.
   
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+  
 - [Hilti-Research/hilti-trimble-slam-challenge-2026](https://github.com/Hilti-Research/hilti-trimble-slam-challenge-2026) - 360 Visual-Inertial Benchmark with Floor Plan Priors for SLAM and Localization
   
 - [Chuny1/3DGPT](https://github.com/Chuny1/3DGPT) - 
@@ -1720,75 +1799,6 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
   
 
-## Shell
-  
-- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
-  
-- [sjtuyinjie/Ultra-Fusion](https://github.com/sjtuyinjie/Ultra-Fusion) - Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation
-  
-- [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code.
-  
-- [Menghuan1918/uvv](https://github.com/Menghuan1918/uvv) - Easier use of package manager uv in the form of conda.               以conda的形式更轻松的使用包管理器uv。
-  
-- [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
-  
-- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
-  
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-  
-- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
-  
-- [lomorage/lomo-docker](https://github.com/lomorage/lomo-docker) - Lomorage Raspberry Pi docker image
-  
-- [prontera/ideavimrc](https://github.com/prontera/ideavimrc) - IntelliJ IDEA的VIM键位配置，快速配置USTC源
-  
-- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
-  
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-  
-- [ravenxrz/dotfiles](https://github.com/ravenxrz/dotfiles) - My dotfiles
-  
-- [Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection) - 📐A collection of line segments detection algorithms. 
-  
-- [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
-  
-- [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
-  
-- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
-  
-- [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
-  
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic &amp; beautiful looking powerline segments, written purely in bash.
-  
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-  
-- [himanshub16/ProxyMan](https://github.com/himanshub16/ProxyMan) - Configuring proxy settings made easy.
-  
-- [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
-  
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
-  
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-  
-- [jetsonhacks/bootFromExternalStorage](https://github.com/jetsonhacks/bootFromExternalStorage) - Shell scripts to setup a NVIDIA Jetson AGX Xavier, Xavier NX, AGX Orin, or Orin Nano Developer Kit to boot from external storage.
-  
-- [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
-  
-- [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
-  
-- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
-  
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
-  
-- [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-  
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-  
-- [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
-  
-- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-  
-
 ## JavaScript
   
 - [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
@@ -1947,8 +1957,6 @@
 
 ## TypeScript
   
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-  
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
   
 - [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude &amp; ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。
@@ -1971,7 +1979,7 @@
   
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
   
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
   
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
   
