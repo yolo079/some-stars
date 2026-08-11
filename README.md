@@ -1916,8 +1916,6 @@
   
 - [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
   
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-  
 - [Z4Tech/hexo-tag-bilibili](https://github.com/Z4Tech/hexo-tag-bilibili) - Embed bilibili videos in Hexo posts/pages
   
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We&#39;ve launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
@@ -2073,6 +2071,8 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
   
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
+  
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
   
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
   
