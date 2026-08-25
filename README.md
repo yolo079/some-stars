@@ -228,7 +228,7 @@
   
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
   
-- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It&#39;s giving rebirth era. Welcome to Digital Life 1.0. 🫶
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
   
 - [Insta360-Research-Team/Fly360](https://github.com/Insta360-Research-Team/Fly360) - Official code for &#34;Fly360: Omnidirectional Obstacle Avoidance within Drone View&#34;
   
