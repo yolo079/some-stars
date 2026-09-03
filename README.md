@@ -169,8 +169,6 @@
   
 - [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
   
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-  
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
   
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -227,8 +225,6 @@
 - [corenel/today-i-learned](https://github.com/corenel/today-i-learned) - A collection of concise notes on things I learn every day. Covering various topics, from tech to general knowledge. Quick insights for daily learning.
   
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-  
-- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
   
 - [Insta360-Research-Team/Fly360](https://github.com/Insta360-Research-Team/Fly360) - Official code for &#34;Fly360: Omnidirectional Obstacle Avoidance within Drone View&#34;
   
@@ -2000,6 +1996,8 @@
   
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
   
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+  
 - [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude &amp; ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。
   
 - [ailyProject/aily-blockly](https://github.com/ailyProject/aily-blockly) - AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...
@@ -2069,6 +2067,8 @@
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
   
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards &amp; USB drives, safely and easily.
+  
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
   
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
   
