@@ -9,9 +9,9 @@
 ## Table of Contents
 
 
-* [JavaScript](#javascript)
-
 * [Python](#python)
+
+* [JavaScript](#javascript)
 
 * [Other](#other)
 
@@ -109,88 +109,9 @@
 
 
 
-## JavaScript
-  
-- [sophiamyang/finger-frame-effect-ai](https://github.com/sophiamyang/finger-frame-effect-ai) - 
-  
-- [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
-  
-- [ailyProject/aily-blockly-libraries](https://github.com/ailyProject/aily-blockly-libraries) - aily blockly library registry
-  
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-  
-- [CooperJiang/coding-tool](https://github.com/CooperJiang/coding-tool) - claudecode|codex|gemini  cli增强工具。
-  
-- [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
-  
-- [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-  
-- [cvg/pixloc](https://github.com/cvg/pixloc) - Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)
-  
-- [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
-  
-- [amarullz/windowgestures](https://github.com/amarullz/windowgestures) - GNOME Extension to Manage window with touchpad gestures
-  
-- [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
-  
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-  
-- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-  
-- [yiyungent/hexo-asset-img](https://github.com/yiyungent/hexo-asset-img) - 🍰 Hexo local image plugin. | Hexo 本地图片插件: 转换 图片相对路径 为 asset_img
-  
-- [hexojs/hexo-generator-index](https://github.com/hexojs/hexo-generator-index) - Index generator plugin for Hexo.
-  
-- [zthxxx/hexo-directory-category](https://github.com/zthxxx/hexo-directory-category) - Automatically add category to Hexo article according to the article file directory.
-  
-- [yfzhao20/vscode-ultra-math-preview](https://github.com/yfzhao20/vscode-ultra-math-preview) - A VS Code extension for math preview and other functions. 
-  
-- [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) -  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
-  
-- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
-  
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
-  
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
-  
-- [siyuan-note/oceanpress_old](https://github.com/siyuan-note/oceanpress_old) - 将 Markdown 文件转换为 HTML 生成静态站点的工具，专为思源笔记实现了许多特有渲染效果。
-  
-- [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser&#39;s reference manager: automatic paper detection (Arxiv, OpenReview &amp; more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
-  
-- [zedapp/zed](https://github.com/zedapp/zed) - Rethinking code editing.
-  
-- [chi-feng/mcmc-demo](https://github.com/chi-feng/mcmc-demo) - Interactive Markov-chain Monte Carlo Javascript demos
-  
-- [AlexGeControl/3D-Point-Cloud-Analytics](https://github.com/AlexGeControl/3D-Point-Cloud-Analytics) - Portfolio for 3D Point Cloud Processing from www.shenlanxueyuan.com China
-  
-- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-  
-- [octave-online/octave-online-server](https://github.com/octave-online/octave-online-server) - The infrastructure that powers Octave Online, octave-online.net
-  
-- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
-  
-- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-  
-- [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-  
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-  
-- [leoforfree/cz-customizable](https://github.com/leoforfree/cz-customizable) - A standalone commit message helper or customizable commitizen adapter for https://github.com/commitizen/cz-cli
-  
-- [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
-  
-- [suziwen/roadbike](https://github.com/suziwen/roadbike) - 小书匠官网博客源码
-  
-- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-  
-- [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
-  
-- [Z4Tech/hexo-tag-bilibili](https://github.com/Z4Tech/hexo-tag-bilibili) - Embed bilibili videos in Hexo posts/pages
-  
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We&#39;ve launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
-  
-
 ## Python
+  
+- [alexmgee/Fisheye-to-Cubemap](https://github.com/alexmgee/Fisheye-to-Cubemap) - Direct fisheye → pinhole cubemap conversion for SfM and 3DGS pipelines. Preserves per-pixel ray direction and solid angle.
   
 - [nianticlabs/mvsanywhere](https://github.com/nianticlabs/mvsanywhere) - 
   
@@ -625,6 +546,87 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
   
 
+## JavaScript
+  
+- [sophiamyang/finger-frame-effect-ai](https://github.com/sophiamyang/finger-frame-effect-ai) - 
+  
+- [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
+  
+- [ailyProject/aily-blockly-libraries](https://github.com/ailyProject/aily-blockly-libraries) - aily blockly library registry
+  
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+  
+- [CooperJiang/coding-tool](https://github.com/CooperJiang/coding-tool) - claudecode|codex|gemini  cli增强工具。
+  
+- [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
+  
+- [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+  
+- [cvg/pixloc](https://github.com/cvg/pixloc) - Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)
+  
+- [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
+  
+- [amarullz/windowgestures](https://github.com/amarullz/windowgestures) - GNOME Extension to Manage window with touchpad gestures
+  
+- [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
+  
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+  
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
+  
+- [yiyungent/hexo-asset-img](https://github.com/yiyungent/hexo-asset-img) - 🍰 Hexo local image plugin. | Hexo 本地图片插件: 转换 图片相对路径 为 asset_img
+  
+- [hexojs/hexo-generator-index](https://github.com/hexojs/hexo-generator-index) - Index generator plugin for Hexo.
+  
+- [zthxxx/hexo-directory-category](https://github.com/zthxxx/hexo-directory-category) - Automatically add category to Hexo article according to the article file directory.
+  
+- [yfzhao20/vscode-ultra-math-preview](https://github.com/yfzhao20/vscode-ultra-math-preview) - A VS Code extension for math preview and other functions. 
+  
+- [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) -  M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
+  
+- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
+  
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
+  
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+  
+- [siyuan-note/oceanpress_old](https://github.com/siyuan-note/oceanpress_old) - 将 Markdown 文件转换为 HTML 生成静态站点的工具，专为思源笔记实现了许多特有渲染效果。
+  
+- [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser&#39;s reference manager: automatic paper detection (Arxiv, OpenReview &amp; more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
+  
+- [zedapp/zed](https://github.com/zedapp/zed) - Rethinking code editing.
+  
+- [chi-feng/mcmc-demo](https://github.com/chi-feng/mcmc-demo) - Interactive Markov-chain Monte Carlo Javascript demos
+  
+- [AlexGeControl/3D-Point-Cloud-Analytics](https://github.com/AlexGeControl/3D-Point-Cloud-Analytics) - Portfolio for 3D Point Cloud Processing from www.shenlanxueyuan.com China
+  
+- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
+  
+- [octave-online/octave-online-server](https://github.com/octave-online/octave-online-server) - The infrastructure that powers Octave Online, octave-online.net
+  
+- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
+  
+- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+  
+- [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
+  
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+  
+- [leoforfree/cz-customizable](https://github.com/leoforfree/cz-customizable) - A standalone commit message helper or customizable commitizen adapter for https://github.com/commitizen/cz-cli
+  
+- [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
+  
+- [suziwen/roadbike](https://github.com/suziwen/roadbike) - 小书匠官网博客源码
+  
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+  
+- [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
+  
+- [Z4Tech/hexo-tag-bilibili](https://github.com/Z4Tech/hexo-tag-bilibili) - Embed bilibili videos in Hexo posts/pages
+  
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We&#39;ve launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
+  
+
 ## Other
   
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -998,7 +1000,7 @@
   
 - [ethz-mrl/supereight2](https://github.com/ethz-mrl/supereight2) - High performance volumetric occupancy and TSDF mapping
   
-- [nvidia-isaac/cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
+- [nvidia-isaac/cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - CUDA-accelerated visual odometry and SLAM library for fast, accurate, low-latency camera tracking
   
 - [ethz-mrl/OKVIS2-X](https://github.com/ethz-mrl/OKVIS2-X) - OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS
   
@@ -2004,7 +2006,7 @@
   
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
   
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
   
 - [aooiuu/any-reader](https://github.com/aooiuu/any-reader) - 📘开源的多平台自定义源资源聚合工具。支持小说、漫画阅读、视频播放、聚合搜索、分类排行等, 也支持本地资源TXT、EPUB
   
@@ -2012,7 +2014,7 @@
   
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
   
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
   
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
   
