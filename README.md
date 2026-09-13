@@ -147,6 +147,8 @@
   
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
   
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+  
 - [Insta360-Research-Team/Fly360](https://github.com/Insta360-Research-Team/Fly360) - Official code for &#34;Fly360: Omnidirectional Obstacle Avoidance within Drone View&#34;
   
 - [Insta360-Research-Team/AirSim360](https://github.com/Insta360-Research-Team/AirSim360) - Official implementation of CVPR2026 paper &#34;AirSim360: A Panoramic Simulation Platform within Drone View&#34;
@@ -2082,8 +2084,6 @@
   
 
 ## TypeScript
-  
-- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
   
 - [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude &amp; ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
   
