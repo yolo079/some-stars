@@ -9,6 +9,10 @@
 ## Table of Contents
 
 
+* [Rust](#rust)
+
+* [Java](#java)
+
 * [TypeScript](#typescript)
 
 * [Python](#python)
@@ -25,15 +29,11 @@
 
 * [Lua](#lua)
 
-* [Rust](#rust)
-
 * [Jupyter Notebook](#jupyter-notebook)
 
 * [TeX](#tex)
 
 * [Groovy](#groovy)
-
-* [Java](#java)
 
 * [Vala](#vala)
 
@@ -109,11 +109,109 @@
 
 
 
+## Rust
+  
+- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
+  
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+  
+- [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code &amp; Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
+  
+- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
+  
+- [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) - A real traffic light for AI agents.
+  
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+  
+- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+  
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI.
+  
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io
+  
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+  
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
+  
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39;
+  
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+  
+- [code-cp/msckf-rust](https://github.com/code-cp/msckf-rust) - 
+  
+- [ferstar/gestures](https://github.com/ferstar/gestures) - Fast touchpad gesture tool
+  
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+  
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+  
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
+  
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+  
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+  
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+  
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+  
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+  
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+  
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+  
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+  
+- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
+  
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  
+
+## Java
+  
+- [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
+  
+- [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
+  
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+  
+- [AprilRobotics/apriltag-generation](https://github.com/AprilRobotics/apriltag-generation) - Generate AprilTags in custom layouts
+  
+- [DavidGillsjo/VideoIMUCapture-Android](https://github.com/DavidGillsjo/VideoIMUCapture-Android) - Android application for capture of Video, IMU data and Camera data useful in SLAM and Structure from Motion research. Differs between Optical Image Stabilization (OIS) and Digital Video Stabilization (DVS) and can provide OIS data if the device supports it.
+  
+- [lessthanoptimal/BoofCV](https://github.com/lessthanoptimal/BoofCV) - Fast computer vision library for SFM, calibration, fiducials, tracking,  image processing, and more.
+  
+- [zxing/zxing](https://github.com/zxing/zxing) - ZXing (&#34;Zebra Crossing&#34;) barcode scanning library for Java, Android
+  
+- [finogeeks/finclip-android-demo](https://github.com/finogeeks/finclip-android-demo) - 小程序引擎 FinClip 安卓运行环境，让小程序在安卓应用中无缝运行  / Android DEMO for FinClip
+  
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
+  
+- [ogrebenyuk/compilerexplorer](https://github.com/ogrebenyuk/compilerexplorer) - Compiler Explorer plugin for CLion. This plugin shows compilation results from a remote Compiler Explorer instance.
+  
+- [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
+  
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）
+  
+- [Rugal/commitlinter-maven-plugin](https://github.com/Rugal/commitlinter-maven-plugin) - Maven plugin for linting git commit message
+  
+- [krasa/GrepConsole](https://github.com/krasa/GrepConsole) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125
+  
+- [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
+  
+- [huaibovip/android_ros_sensors](https://github.com/huaibovip/android_ros_sensors) - android_ros_sensors
+  
+
 ## TypeScript
   
 - [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple &amp; beautiful GUI application for scrcpy.
   
-- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude &amp; ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT &amp; DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
   
 - [ailyProject/aily-blockly](https://github.com/ailyProject/aily-blockly) - AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...
   
@@ -273,8 +371,6 @@
 - [Aceinna/gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - Open-source GNSS + inertial navigation, sensor fusion simulator.  Motion trajectory generator, sensor models, and navigation 
   
 - [utiasSTARS/FaVoR](https://github.com/utiasSTARS/FaVoR) - A globally sparse but locally dense 3D feature renderer for camera relocalization.
-  
-- [rarejesse/jecto](https://github.com/rarejesse/jecto) - Tools for generating, evaluating, and visualizing 3D motion.
   
 - [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
   
@@ -1947,67 +2043,6 @@
 - [jxai/lean-conky-config](https://github.com/jxai/lean-conky-config) - Lean Conky config that just works
   
 
-## Rust
-  
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-  
-- [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code &amp; Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
-  
-- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
-  
-- [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) - A real traffic light for AI agents.
-  
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-  
-- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-  
-- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI.
-  
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io
-  
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-  
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
-  
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39;
-  
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-  
-- [code-cp/msckf-rust](https://github.com/code-cp/msckf-rust) - 
-  
-- [ferstar/gestures](https://github.com/ferstar/gestures) - Fast touchpad gesture tool
-  
-- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-  
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-  
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
-  
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-  
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-  
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-  
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-  
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-  
-- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-  
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-  
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-  
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
-  
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-  
-- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
-  
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-  
-
 ## Jupyter Notebook
   
 - [datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
@@ -2095,39 +2130,6 @@
 ## Groovy
   
 - [EdoFro/Freeplane_MarkdownHelper](https://github.com/EdoFro/Freeplane_MarkdownHelper) - Markdown HelperAddOn for Freeplane is a tool to create markdown documents in a Freeplane mindmapping way. The general idea of this AddOn is to insert special nodes in your map that help to translate the information in a mindmap into a Markdown document. You obtain a good looking document retaining the flexibility that offers Freeplane and mindmapping. You can easy reorder and insert new ideas as usual.
-  
-
-## Java
-  
-- [freeplane/freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
-  
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-  
-- [AprilRobotics/apriltag-generation](https://github.com/AprilRobotics/apriltag-generation) - Generate AprilTags in custom layouts
-  
-- [DavidGillsjo/VideoIMUCapture-Android](https://github.com/DavidGillsjo/VideoIMUCapture-Android) - Android application for capture of Video, IMU data and Camera data useful in SLAM and Structure from Motion research. Differs between Optical Image Stabilization (OIS) and Digital Video Stabilization (DVS) and can provide OIS data if the device supports it.
-  
-- [lessthanoptimal/BoofCV](https://github.com/lessthanoptimal/BoofCV) - Fast computer vision library for SFM, calibration, fiducials, tracking,  image processing, and more.
-  
-- [zxing/zxing](https://github.com/zxing/zxing) - ZXing (&#34;Zebra Crossing&#34;) barcode scanning library for Java, Android
-  
-- [finogeeks/finclip-android-demo](https://github.com/finogeeks/finclip-android-demo) - 小程序引擎 FinClip 安卓运行环境，让小程序在安卓应用中无缝运行  / Android DEMO for FinClip
-  
-- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
-  
-- [ogrebenyuk/compilerexplorer](https://github.com/ogrebenyuk/compilerexplorer) - Compiler Explorer plugin for CLion. This plugin shows compilation results from a remote Compiler Explorer instance.
-  
-- [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
-  
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）
-  
-- [Rugal/commitlinter-maven-plugin](https://github.com/Rugal/commitlinter-maven-plugin) - Maven plugin for linting git commit message
-  
-- [krasa/GrepConsole](https://github.com/krasa/GrepConsole) - IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125
-  
-- [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
-  
-- [huaibovip/android_ros_sensors](https://github.com/huaibovip/android_ros_sensors) - android_ros_sensors
   
 
 ## Vala
