@@ -743,7 +743,7 @@
   
 - [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
   
-- [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+- [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容 (还在测试).
   
 - [cvg/pixloc](https://github.com/cvg/pixloc) - Back to the Feature: Learning Robust Camera Localization from Pixels to Pose (CVPR 2021)
   
@@ -1893,7 +1893,7 @@
   
 - [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems&#39; Solutions 
   
-- [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
+- [cdcseacave/openMVS](https://github.com/cdcseacave/openMVS) - open Structure-fom-Motion and Multi-View Stereo reconstruction library
   
 - [cnr-isti-vclab/vcglib](https://github.com/cnr-isti-vclab/vcglib) - The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes
   
