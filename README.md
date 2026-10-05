@@ -2167,6 +2167,8 @@
   
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
   
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+  
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.
   
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -2179,8 +2181,6 @@
 - [xcodebuild/fcitx-remote-for-osx](https://github.com/xcodebuild/fcitx-remote-for-osx) - A simulate fcitx-remote to handle osx input method in command line
   
 - [dmarcotte/easy-move-resize](https://github.com/dmarcotte/easy-move-resize) - Adds &#34;modifier key + mouse drag&#34; move and resize to OSX
-  
-- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
   
 
 ## Scala
