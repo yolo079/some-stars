@@ -280,8 +280,6 @@
   
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
   
-- [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 微信 PC 4.0 防撤回/多开补丁工具
-  
 - [PKU-VCL-3DV/SLAM3R](https://github.com/PKU-VCL-3DV/SLAM3R) - [CVPR 2025 Highlight] Real-time dense scene reconstruction with SLAM3R
   
 - [VSLAM-LAB/VSLAM-LAB](https://github.com/VSLAM-LAB/VSLAM-LAB) - A Comprehensive Framework for Visual SLAM Systems and Datasets
@@ -1487,6 +1485,8 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io
   
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+  
+- [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - BetterWX 补丁工具 v2
   
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
   
