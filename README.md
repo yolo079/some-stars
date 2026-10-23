@@ -1795,8 +1795,6 @@
   
 - [berndpfrommer/tagslam_root](https://github.com/berndpfrommer/tagslam_root) - root repository for complete tagslam setup
   
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer&#39;s guide to live longer
-  
 - [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision 
   
 - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
@@ -1907,6 +1905,8 @@
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
   
 - [ila/TUM](https://github.com/ila/TUM) - Notes, material and various stuff collected while attending TUM Master&#39;s Degree
+  
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
   
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
   
@@ -2402,7 +2402,7 @@
   
 - [Nasller/CodeGlancePro](https://github.com/Nasller/CodeGlancePro) - Minimap run on jetbrains platform.
   
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast file and video downloader with HLS, DASH and batch download support
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast, reliable download accelerator and video downloader, trusted for 13+ years
   
 - [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
   
