@@ -63,8 +63,6 @@
 
 * [CSS](#css)
 
-* [Roff](#roff)
-
 * [Zig](#zig)
 
 * [Vue](#vue)
@@ -1563,7 +1561,7 @@
   
 - [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具）
   
-- [huaibovip/android_ros_sensors](https://github.com/huaibovip/android_ros_sensors) - android_ros_sensors
+- [ohmyidea/android_ros_sensors](https://github.com/ohmyidea/android_ros_sensors) - android_ros_sensors
   
 
 ## TypeScript
@@ -1692,6 +1690,8 @@
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
   
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+  
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
   
 - [HKUST-Aerial-Robotics/OmniNxt](https://github.com/HKUST-Aerial-Robotics/OmniNxt) - [IROS&#39;24 Oral] A Fully Open-source and Compact Aerial Robot with Omnidirectional Visual Perception
   
@@ -2404,7 +2404,7 @@
   
 - [Nasller/CodeGlancePro](https://github.com/Nasller/CodeGlancePro) - Minimap run on jetbrains platform.
   
-- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast, reliable download accelerator and video downloader, trusted for 13+ years
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Fast, reliable download accelerator and video downloader since 2013
   
 - [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
   
@@ -2434,11 +2434,6 @@
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
   
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more
-  
-
-## Roff
-  
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
   
 
 ## Zig
