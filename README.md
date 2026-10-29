@@ -123,6 +123,8 @@
   
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI&#39;s Codex AI in the command line.
   
+- [datawhalechina/start-mllm](https://github.com/datawhalechina/start-mllm) - 从0开始学习多模态大模型，从概念、架构、训练到部署，系统搭建你的第一套 MLLM 知识体系
+  
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
   
 - [Hilti-Research/hilti-trimble-slam-challenge-2026](https://github.com/Hilti-Research/hilti-trimble-slam-challenge-2026) - 360 Visual-Inertial Benchmark with Floor Plan Priors for SLAM and Localization
@@ -741,7 +743,7 @@
   
 - [Roger-Chuh/vins-fisheye-cubemap](https://github.com/Roger-Chuh/vins-fisheye-cubemap) - a VINS algorithm with a combination of stereo fisheye images, cubemap, line features, dense mapping and loop closure
   
-- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change. 
+- [meta/watchman](https://github.com/meta/watchman) - Watches files and records, or triggers actions, when they change. 
   
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
   
@@ -1661,8 +1663,6 @@
   
 - [RoggeOhta/awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) - Curated list of 150+ tools, skills, subagents &amp; plugins for OpenAI Codex CLI
   
-- [datawhalechina/start-mllm](https://github.com/datawhalechina/start-mllm) - 从0开始学习多模态大模型，从概念、架构、训练到部署，系统搭建你的第一套 MLLM 知识体系
-  
 - [Taeyoung96/Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration) - :sunglasses: A current list of LiDAR-IMU calibration method 
   
 - [hku-mars/BDM](https://github.com/hku-mars/BDM) - Memory-Efficient Boundary Map for Large-Scale Occupancy Grid Mapping (IJRR 2026)
@@ -2216,7 +2216,7 @@
   
 - [tum-vision/ardrone_autonomy](https://github.com/tum-vision/ardrone_autonomy) - This is a slightly modified version of the official ardrone_autonomy package, which You can find here: https://github.com/AutonomyLab/ardrone_autonomy
   
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
   
 - [ETH-PBL/NanoSLAM](https://github.com/ETH-PBL/NanoSLAM) - NanoSLAM: Enabling Fully Onboard SLAM for Tiny Robots
   
