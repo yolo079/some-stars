@@ -111,6 +111,10 @@
 
 ## Python
   
+- [UAV-Swarm/tools-quarterKalibr](https://github.com/UAV-Swarm/tools-quarterKalibr) - calibrate quadcam modules in a more effecient way
+  
+- [UAV-Swarm/tools-OmniNxtSimulator](https://github.com/UAV-Swarm/tools-OmniNxtSimulator) - OmniNxt simulator based on Isaac Lab
+  
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
   
 - [vision4robotics/SCT](https://github.com/vision4robotics/SCT) - This is the official code for the paper &#34;Tracker Meets Night: A Transformer Enhancer for UAV Tracking&#34;.
@@ -178,6 +182,8 @@
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model &amp; Framework. Unlocking the AI Phone for Everyone
   
 - [HeleenaRobert/super-resolution-showcase](https://github.com/HeleenaRobert/super-resolution-showcase) - 🌃 Comparing AI super-resolution models with visual examples and runtime analysis for image upscaling and restoration.
+  
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
   
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion &amp; trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
   
@@ -2253,8 +2259,6 @@
 ## Swift
   
 - [mylxsw/typeflux](https://github.com/mylxsw/typeflux) - Typeflux is a macOS menu bar voice input tool built with Swift. It is designed for a fast &#34;hold to talk, release to insert&#34; workflow: press a hotkey, speak naturally, let the app transcribe your speech, and send the resulting text back into the currently focused app.
-  
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
   
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
   
