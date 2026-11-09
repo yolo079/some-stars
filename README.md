@@ -479,6 +479,8 @@
   
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
   
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
+  
 - [magicleap/SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork) - PyTorch pre-trained model for real-time interest point detection, description, and sparse tracking (https://arxiv.org/abs/1712.07629)
   
 - [igraph/python-igraph](https://github.com/igraph/python-igraph) - Python interface for igraph
@@ -790,8 +792,6 @@
 - [berndpfrommer/tagslam_root](https://github.com/berndpfrommer/tagslam_root) - root repository for complete tagslam setup
   
 - [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision 
-  
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
   
 - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
   
@@ -1181,9 +1181,9 @@
   
 - [pangfumin/marginalization](https://github.com/pangfumin/marginalization) - Sample code for marginalization of SLAM, Visual-Inertial Odometry.
   
-- [cggos/imu_x_fusion](https://github.com/cggos/imu_x_fusion) - IMU + X(GNSS, 6DoF Odom) Loosely-Coupled Fusion Localization based on ESKF, IEKF, UKF(UKF/SPKF, JUKF, SVD-UKF) and MAP
+- [gavngao/imu_x_fusion](https://github.com/gavngao/imu_x_fusion) - IMU + X(GNSS, 6DoF Odom) Loosely-Coupled Fusion Localization based on ESKF, IEKF, UKF(UKF/SPKF, JUKF, SVD-UKF) and MAP
   
-- [cggos/msckf_cg](https://github.com/cggos/msckf_cg) - Modified version of KumarRobotics/msckf_vio (commit e3a39a9 on Jul 26, 2019), a stereo version of MSCKF.
+- [gavngao/msckf_cg](https://github.com/gavngao/msckf_cg) - Modified version of KumarRobotics/msckf_vio (commit e3a39a9 on Jul 26, 2019), a stereo version of MSCKF.
   
 - [ivashmak/vsac](https://github.com/ivashmak/vsac) - Code for &#34;VSAC: Efficient and Accurate Estimator for H and F&#34;
   
@@ -1207,7 +1207,7 @@
   
 - [changh95/super-mono-vo](https://github.com/changh95/super-mono-vo) - Avisingh599&#39;s mono-vo with SuperPoint/Superglue
   
-- [cggos/ptam_cg](https://github.com/cggos/ptam_cg) - Modified version of the monocular SLAM framework PTAM
+- [gavngao/ptam_cg](https://github.com/gavngao/ptam_cg) - Modified version of the monocular SLAM framework PTAM
   
 - [ucla-vision/xivo](https://github.com/ucla-vision/xivo) - X Inertial-aided Visual Odometry
   
