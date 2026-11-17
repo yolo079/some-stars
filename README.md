@@ -9,11 +9,11 @@
 ## Table of Contents
 
 
+* [Python](#python)
+
 * [Rust](#rust)
 
 * [TypeScript](#typescript)
-
-* [Python](#python)
 
 * [C](#c)
 
@@ -109,167 +109,9 @@
 
 
 
-## Rust
-  
-- [oinkvm/oink](https://github.com/oinkvm/oink) - Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, drag and drop and audio across Macs and PCs.
-  
-- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
-  
-- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
-  
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-  
-- [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code &amp; Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
-  
-- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
-  
-- [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) - A real traffic light for AI agents.
-  
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-  
-- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-  
-- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI.
-  
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
-  
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-  
-- [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - BetterWX 补丁工具 v2
-  
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
-  
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39;
-  
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-  
-- [code-cp/msckf-rust](https://github.com/code-cp/msckf-rust) - 
-  
-- [ferstar/gestures](https://github.com/ferstar/gestures) - Fast touchpad gesture tool
-  
-- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-  
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-  
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
-  
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-  
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-  
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-  
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-  
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-  
-- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-  
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-  
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-  
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
-  
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-  
-- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
-  
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-  
-
-## TypeScript
-  
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-  
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
-  
-- [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple &amp; beautiful GUI application for scrcpy.
-  
-- [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT &amp; DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-  
-- [ailyProject/aily-blockly](https://github.com/ailyProject/aily-blockly) - AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...
-  
-- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
-  
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-  
-- [aooiuu/any-reader](https://github.com/aooiuu/any-reader) - 📘开源的多平台自定义源资源聚合工具。支持小说、漫画阅读、视频播放、聚合搜索、分类排行等, 也支持本地资源TXT、EPUB
-  
-- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
-  
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-  
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type &#34;mass ulw&#34; keyword with your prompt. Now you are the master of graph engineering.
-  
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
-  
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-  
-- [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) - An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。
-  
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
-  
-- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
-  
-- [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking
-  
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-  
-- [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
-  
-- [Wxh16144/backup-cli](https://github.com/Wxh16144/backup-cli) - 一键备份你的生产力工具配置
-  
-- [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
-  
-- [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
-  
-- [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
-  
-- [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
-  
-- [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
-  
-- [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
-  
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
-  
-- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-  
-- [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
-  
-- [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
-  
-- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
-  
-- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-  
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-  
-- [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
-  
-- [The-DevOps-Daily/devops-daily](https://github.com/The-DevOps-Daily/devops-daily) - The latest news, tutorials, and guides for DevOps professionals.
-  
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-  
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-  
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
-  
-- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards &amp; USB drives, safely and easily.
-  
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-  
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-  
-- [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
-  
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-  
-- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-  
-
 ## Python
+  
+- [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) - An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training.
   
 - [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) - Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.
   
@@ -720,6 +562,166 @@
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
   
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+  
+
+## Rust
+  
+- [oinkvm/oink](https://github.com/oinkvm/oink) - Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, drag and drop and audio across Macs and PCs.
+  
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
+  
+- [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
+  
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+  
+- [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code &amp; Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
+  
+- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) -  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
+  
+- [starlight36/vibecoding-signal-light](https://github.com/starlight36/vibecoding-signal-light) - A real traffic light for AI agents.
+  
+- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+  
+- [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI.
+  
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
+  
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+  
+- [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - BetterWX 补丁工具 v2
+  
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
+  
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39;
+  
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+  
+- [code-cp/msckf-rust](https://github.com/code-cp/msckf-rust) - 
+  
+- [ferstar/gestures](https://github.com/ferstar/gestures) - Fast touchpad gesture tool
+  
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+  
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+  
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize, query, and stream to train on multimodal robotics data.
+  
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+  
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+  
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+  
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+  
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+  
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+  
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+  
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+  
+- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
+  
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  
+
+## TypeScript
+  
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+  
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
+  
+- [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple &amp; beautiful GUI application for scrcpy.
+  
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+  
+- [voyager-crew/voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT &amp; DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+  
+- [ailyProject/aily-blockly](https://github.com/ailyProject/aily-blockly) - AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...
+  
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
+  
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
+  
+- [aooiuu/any-reader](https://github.com/aooiuu/any-reader) - 📘开源的多平台自定义源资源聚合工具。支持小说、漫画阅读、视频播放、聚合搜索、分类排行等, 也支持本地资源TXT、EPUB
+  
+- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
+  
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+  
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type &#34;mass ulw&#34; keyword with your prompt. Now you are the master of graph engineering.
+  
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+  
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+  
+- [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) - An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。
+  
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+  
+- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
+  
+- [jyjblrd/Low-Cost-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking
+  
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+  
+- [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
+  
+- [Wxh16144/backup-cli](https://github.com/Wxh16144/backup-cli) - 一键备份你的生产力工具配置
+  
+- [agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian) - An Obsidian md plugin which allows for the conversion of individually selected wikilinks to markdown links, and vice versa.
+  
+- [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
+  
+- [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
+  
+- [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
+  
+- [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
+  
+- [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
+  
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+  
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
+  
+- [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
+  
+- [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
+  
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
+  
+- [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+  
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+  
+- [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
+  
+- [The-DevOps-Daily/devops-daily](https://github.com/The-DevOps-Daily/devops-daily) - The latest news, tutorials, and guides for DevOps professionals.
+  
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+  
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+  
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+  
+- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards &amp; USB drives, safely and easily.
+  
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+  
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+  
+- [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
+  
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+  
+- [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
   
 
 ## C
@@ -2365,7 +2367,7 @@
   
 - [hellogcc/100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
   
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 800+ integrations
   
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
   
